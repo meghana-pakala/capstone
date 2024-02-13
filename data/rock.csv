@@ -1,0 +1,510 @@
+playlist,id,track,artist,album,release_date,release_year,length_ms,explicit,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+The Sound of Rock,1Y373MqadDRtclJNdnUXVc,Paranoid - 2012 - Remaster,['Black Sabbath'],Paranoid (Remaster),1970-09-18,1970,168405,False,76,0.412,0.658,4,-12.051,0,0.0708,4.52e-05,0.000774,0.176,0.454,163.071
+The Sound of Rock,5CQ30WqJwcep0pYcV4AMNc,Stairway to Heaven - Remaster,['Led Zeppelin'],Led Zeppelin IV (Deluxe Edition),1971-11-08,1971,482830,False,81,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433
+The Sound of Rock,3dPQuX8Gs42Y7b454ybpMR,Seven Nation Army,['The White Stripes'],Elephant,2003-04-01,2003,232106,False,88,0.743,0.446,4,-7.807,0,0.0683,0.0039,0.118,0.337,0.278,123.596
+The Sound of Rock,5UWwZ5lm5PKu6eKsHAGxOk,Everlong,['Foo Fighters'],The Colour And The Shape,1997-05-20,1997,250546,False,87,0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066
+The Sound of Rock,3qiyyUfYe7CRYLucrPmulD,Baba O'Riley,['The Who'],Who's Next (Deluxe Edition),1971-08-14,1971,300400,False,79,0.489,0.724,5,-8.367,1,0.0352,0.313,0.185,0.287,0.15,117.292
+The Sound of Rock,7fURZRPkB2S70sYR1naKTK,Black Hole Sun,['Soundgarden'],Superunknown,1994-01-01,1994,318000,False,54,0.361,0.728,6,-8.519,1,0.0368,0.000291,0.000112,0.0701,0.155,105.768
+The Sound of Rock,2aoo2jlRnM3A0NyLQqMN2f,All Along the Watchtower,['Jimi Hendrix'],Electric Ladyland,1968-10-25,1968,240800,False,78,0.438,0.805,8,-6.237,1,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253
+The Sound of Rock,5QLHGv0DfpeXLNFo7SFEy1,1979 - Remastered 2012,['The Smashing Pumpkins'],Mellon Collie And The Infinite Sadness (Deluxe Edition),1995-01-01,1995,266200,False,81,0.767,0.787,3,-9.897,1,0.0331,0.0163,0.583,0.0513,0.964,126.879
+The Sound of Rock,7N3PAbqfTjSEU1edb2tY8j,Jump - 2015 Remaster,['Van Halen'],1984 (Remastered),1984-01-04,1984,241599,False,81,0.572,0.835,0,-6.219,1,0.0317,0.171,0.000377,0.0702,0.795,129.981
+The Sound of Rock,1Jmqubf9kGkWeYQXQKImL5,People Are Strange,['The Doors'],Strange Days,1967-09-25,1967,130173,False,79,0.699,0.467,4,-8.578,0,0.0375,0.685,0.0,0.315,0.764,119.287
+The Sound of Rock,0gucTLf7trAf37Ua1uAyAu,Smells Like Teen Spirit - Remastered,['Nirvana'],Nevermind (30th Anniversary Super Deluxe),1991-09-24,1991,300893,False,58,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731
+The Sound of Rock,63T7DJ1AFDD6Bn8VzG6JE8,"Paint It, Black",['The Rolling Stones'],Aftermath,1966-04-15,1966,202266,False,86,0.464,0.795,1,-9.267,1,0.0926,0.0493,0.00244,0.399,0.612,158.691
+The Sound of Rock,6QewNVIDKdSl8Y3ycuHIei,Even Flow,['Pearl Jam'],Ten,1991-08-27,1991,292580,True,81,0.394,0.944,10,-6.506,0,0.0761,0.00178,4.54e-06,0.298,0.265,105.338
+The Sound of Rock,59WN2psjkt1tyaxjspN8fp,Killing In The Name,['Rage Against The Machine'],Rage Against The Machine - XX (20th Anniversary Special Edition),1992-01-01,1992,313573,True,82,0.466,0.833,7,-4.215,1,0.304,0.0266,0.0,0.0327,0.661,88.785
+The Sound of Rock,6qLEOZvf5gI7kWE63JE7p3,Interstate Love Song - 2019 Remaster,['Stone Temple Pilots'],Purple (2019 Remaster),1994-06-07,1994,194853,False,78,0.215,0.927,9,-7.327,1,0.0452,0.000273,0.00661,0.126,0.49,170.814
+The Sound of Rock,7e89621JPkKaeDSTQ3avtg,Sweet Home Alabama,['Lynyrd Skynyrd'],Second Helping (Expanded Edition),1974-04-15,1974,283800,False,84,0.596,0.605,7,-12.145,1,0.0255,0.181,0.000331,0.0863,0.886,97.798
+The Sound of Rock,6gZVQvQZOFpzIy3HblJ20F,Man in the Box,['Alice In Chains'],Facelift,1990-08-01,1990,285200,True,78,0.355,0.791,8,-7.565,1,0.0453,0.00045,0.0,0.0969,0.758,106.392
+The Sound of Rock,1xsYj84j7hUDDnTTerGWlH,Dream On,['Aerosmith'],Aerosmith,1973-01-05,1973,267596,False,86,0.392,0.476,1,-7.583,1,0.0249,0.397,0.000163,0.309,0.234,78.031
+The Sound of Rock,0u6JFVn0KHHlidZxNL9gVE,La Grange (2005 Remaster),['ZZ Top'],Tres Hombres (Expanded 2006 Remaster),1973-07-26,1973,230480,False,61,0.509,0.641,4,-9.936,0,0.264,0.00249,0.0304,0.196,0.612,161.74
+The Sound of Rock,0pQskrTITgmCMyr85tb9qq,Starman - 2012 Remaster,['David Bowie'],The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),1972-06-06,1972,254293,False,81,0.486,0.449,5,-10.298,1,0.0267,0.166,2.23e-06,0.54,0.549,100.456
+The Sound of Rock,1JSTJqkT5qHq8MDJnJbRE1,Every Breath You Take,['The Police'],Synchronicity (Remastered 2003),1983-06-17,1983,253920,False,91,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401
+The Sound of Rock,31AOj9sFz2gM0O3hMARRBx,Losing My Religion,['R.E.M.'],Out Of Time (25th Anniversary Edition),1991-03-12,1991,268426,False,87,0.666,0.855,9,-5.051,0,0.0295,0.179,1.2e-06,0.0987,0.803,125.639
+The Sound of Rock,5MMnwYs0hIxkENRsbkWJ2G,Smoke On The Water - Remastered 2012,['Deep Purple'],Machine Head (Remastered),1972-03-25,1972,340742,False,75,0.598,0.676,0,-9.211,1,0.0279,0.13,0.225,0.112,0.805,114.169
+The Sound of Rock,7ACxUo21jtTHzy7ZEV56vU,Crazy Train,['Ozzy Osbourne'],Blizzard Of Ozz (40th Anniversary Expanded Edition),2020-09-18,2020,293183,False,81,0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688
+The Sound of Rock,2xt2piJx6jlFkjS77YiqpL,Like a Stone,['Audioslave'],Audioslave,2002-01-01,2002,293960,False,52,0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849
+The Sound of Rock,39shmbIHICJ2Wxnk1fPSdz,Should I Stay or Should I Go - Remastered,['The Clash'],Combat Rock (Remastered),1982-01-01,1982,188986,False,82,0.743,0.836,2,-6.465,1,0.116,0.0804,0.0,0.384,0.82,113.375
+The Sound of Rock,4gMgiXfqyzZLMhsksGmbQV,"Another Brick in the Wall, Pt. 2",['Pink Floyd'],The Wall,1979-11-30,1979,238746,False,79,0.693,0.394,0,-15.882,1,0.0428,0.0782,0.000694,0.247,0.721,104.114
+The Sound of Rock,2K2M0TcglCRLLpFOzKeFZA,Sunshine Of Your Love,['Cream'],Disraeli Gears (Deluxe Edition),1967-11-01,1967,250400,False,73,0.683,0.594,2,-8.289,1,0.0347,0.385,8.61e-05,0.121,0.734,115.099
+The Sound of Rock,70LcF31zb1H0PyJoS1Sx1r,Creep,['Radiohead'],Pablo Honey,1993-02-22,1993,238640,True,90,0.515,0.43,7,-9.935,1,0.0372,0.0097,0.000133,0.129,0.104,91.844
+The Sound of Rock,7wCmS9TTVUcIhRalDYFgPy,Where Is My Mind? - Remastered,['Pixies'],Surfer Rosa,1988-03-21,1988,234973,False,81,0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334
+The Sound of Rock,6y20BV5L33R8YXM0YuI38N,No One Knows,['Queens of the Stone Age'],Songs For The Deaf,2002-01-01,2002,278746,False,75,0.509,0.584,0,-4.907,1,0.057,0.0368,9.96e-05,0.384,0.685,170.411
+The Sound of Rock,5tVA6TkbaAH9QMITTQRrNv,Free Fallin',['Tom Petty'],Full Moon Fever,1989-01-01,1989,256000,False,81,0.623,0.449,5,-13.333,1,0.0253,0.212,0.0,0.0613,0.572,84.383
+The Sound of Rock,1FTSo4v6BOZH9QxKc3MbVM,Song 2 - 2012 Remaster,['Blur'],Blur (Special Edition),1997-02-10,1997,121160,False,84,0.674,0.789,8,-6.903,1,0.0676,0.00178,0.00708,0.0753,0.918,129.802
+The Sound of Rock,5QTxFnGygVM4jFQiBovmRo,(Don't Fear) The Reaper,['Blue Öyster Cult'],Agents Of Fortune,1976-01-01,1976,308120,False,77,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000208,0.297,0.385,141.466
+The Sound of Rock,3QZ7uX97s82HFYSmQUAN1D,Tom Sawyer,['Rush'],Moving Pictures (2011 Remaster),1981-02-12,1981,276880,False,74,0.536,0.901,9,-7.211,1,0.0374,0.00145,0.0186,0.06,0.666,87.559
+The Sound of Rock,2hYFCMj1OmXA6Zq5HxVlQG,Kickstart My Heart,['Mötley Crüe'],The Dirt Soundtrack,2000-01-01,2000,282920,False,60,0.458,0.969,7,-4.819,0,0.177,0.0018,0.00193,0.371,0.268,89.566
+The Sound of Rock,4KcH1ZRV2W1q7Flq0QqC76,Blitzkrieg Bop - 2016 Remaster,['Ramones'],Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),1976-04-23,1976,134466,False,76,0.385,0.783,9,-2.533,1,0.233,0.000269,0.47,0.108,0.902,176.701
+The Sound of Rock,5XcZRgJv3zMhTqCyESjQrF,Poison,['Alice Cooper'],Trash,1989-07-25,1989,270080,False,75,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698
+The Sound of Rock,3ZOEytgrvLwQaqXreDs2Jx,Can't Stop,['Red Hot Chili Peppers'],By the Way (Deluxe Edition),2002-07-09,2002,269000,False,87,0.618,0.938,9,-3.442,1,0.0456,0.0179,0.0,0.167,0.875,91.455
+The Sound of Rock,1QEEqeFIZktqIpPI4jSVSF,More Than a Feeling,['Boston'],Boston,1976-01-01,1976,285133,False,82,0.377,0.681,7,-8.039,1,0.0298,0.00088,0.0023,0.0504,0.285,108.789
+The Sound of Rock,1QFh8OH1e78dGd3VyJZCAC,Boys Don't Cry,['The Cure'],Three Imaginary Boys,1979-05-11,1979,155973,False,82,0.462,0.836,11,-5.766,0,0.0621,0.00517,0.0,0.18,0.671,168.766
+The Sound of Rock,6tZdL3Zp8JgrfDbsSeSV1S,You Really Got Me,['The Kinks'],Kinks (Deluxe Edition),1964-02-02,1964,133933,False,75,0.567,0.959,8,-3.822,1,0.102,0.0995,6.07e-05,0.1,0.961,137.377
+The Sound of Rock,4OROzZUy6gOWN4UGQVaZMF,The Trooper - 2015 Remaster,['Iron Maiden'],Piece of Mind (2015 Remaster),1983-01-01,1983,252733,False,77,0.285,0.908,4,-4.601,0,0.0705,0.0318,0.00909,0.311,0.669,159.756
+The Sound of Rock,3CIOopLwvyMvXk97ZEksKO,Ace of Spades,['Motörhead'],Ace of Spades (Expanded Edition),1980-11-08,1980,168320,False,77,0.322,0.991,6,-4.453,1,0.213,0.00313,0.0035,0.0708,0.198,140.221
+The Sound of Rock,2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,['AC/DC'],Highway to Hell,1979-07-27,1979,208400,False,87,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728
+The Sound of Rock,1IqFh00G2kvvMm8pRMpehA,Me and Bobby McGee,['Janis Joplin'],Pearl (Legacy Edition),1971-01-11,1971,271333,False,72,0.43,0.463,2,-10.96,1,0.0442,0.303,5.84e-05,0.152,0.66,93.405
+The Sound of Rock,3dmqIB2Qxe2XZobw9gXxJ6,Mary Jane's Last Dance,['Tom Petty and the Heartbreakers'],Greatest Hits,2008-05-20,2008,273600,False,76,0.464,0.655,7,-9.058,0,0.0608,0.0272,1.34e-06,0.328,0.531,169.515
+The Sound of Rock,54b8qPFqYqIndfdxiLApea,Alone,['Heart'],Bad Animals,1987-06-06,1987,218733,False,77,0.418,0.452,1,-13.099,1,0.0356,0.638,0.00026,0.0959,0.168,175.088
+The Sound of Rock,0PdM2a6oIjqepoEfcJo0RO,Pour Some Sugar On Me - Remastered 2017,['Def Leppard'],Hysteria (Super Deluxe),1987-08-03,1987,267306,False,77,0.267,0.953,1,-4.899,0,0.096,0.00211,0.0,0.283,0.568,84.989
+The Sound of Rock,63OFKbMaZSDZ4wtesuuq6f,Born To Be Wild,['Steppenwolf'],Steppenwolf,1968-01-01,1968,210373,False,77,0.438,0.71,2,-12.412,1,0.0919,0.262,0.537,0.221,0.53,145.928
+The Sound of Rock,0pUVeEgZuNyFzIMKp67RbS,Eyes Without A Face,['Billy Idol'],Rebel Yell,1983-11-01,1983,299240,False,80,0.391,0.815,9,-6.197,1,0.0518,0.0177,0.00226,0.276,0.647,84.383
+The Sound of Rock,7snQQk1zcKl8gZ92AnueZW,Sweet Child O' Mine,"[""Guns N' Roses""]",Appetite For Destruction,1987-07-21,1987,356066,False,89,0.446,0.952,6,-5.321,1,0.0523,0.0901,0.0857,0.112,0.624,125.303
+The Sound of Rock,07q0QVgO56EorrSGHC48y3,I Was Made For Lovin' You,['KISS'],Dynasty,1979-03-23,1979,271240,False,84,0.768,0.852,4,-6.215,1,0.038,0.214,7.36e-05,0.0723,0.867,128.373
+The Sound of Rock,7BY005dacJkbO6EPiOh2wb,House Of The Rising Sun,['The Animals'],The Animals,1964-01-01,1964,271280,False,74,0.295,0.584,9,-6.696,0,0.0345,0.000385,0.218,0.0996,0.228,117.2
+The Sound of Rock,5sICkBXVmaCQk5aISGR3x1,Enter Sandman,['Metallica'],Metallica,1991-08-12,1991,331266,False,84,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257
+The Sound of Rock,2MLHyLy5z5l5YRp7momlgw,Island In The Sun,['Weezer'],Weezer,2001-05-15,2001,200306,False,82,0.654,0.81,4,-6.26,0,0.0288,0.00719,0.00251,0.165,0.661,114.623
+The Sound of Rock,24FmdHoCr2jZGE6Z6dZbJT,The Passenger,['Iggy Pop'],Lust For Life,1977-01-01,1977,284066,False,49,0.5,0.846,0,-8.098,1,0.0457,0.0797,0.0,0.241,0.738,134.937
+The Sound of Rock,2DlHlPMa4M17kufBvI2lEN,Chop Suey!,['System Of A Down'],Toxicity,2001-09-04,2001,210240,False,87,0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066
+The Sound of Rock,4EchqUKQ3qAQuRNKmeIpnf,The Kids Aren't Alright,['The Offspring'],Americana,1998-11-16,1998,180160,False,86,0.523,0.943,1,-4.203,1,0.0337,0.00704,3.81e-05,0.0579,0.766,99.607
+The Sound of Rock,3lPr8ghNDBLc2uZovNyLs9,Supermassive Black Hole,['Muse'],Black Holes and Revelations,2006-06-19,2006,212439,False,81,0.668,0.921,7,-3.727,1,0.0439,0.0492,0.00517,0.0877,0.782,120.0
+The Sound of Rock,4vpeKl0vMGdAXpZiQB2Dtd,White Rabbit,['Jefferson Airplane'],Surrealistic Pillow,1967-01-01,1967,150640,False,73,0.551,0.293,2,-12.503,1,0.0272,0.486,0.000273,0.0864,0.322,106.798
+The Sound of Rock,1i6N76fftMZhijOzFQ5ZtL,Psycho Killer - 2005 Remaster,['Talking Heads'],Talking Heads '77 (Deluxe Version),1977-09-16,1977,261413,False,79,0.721,0.521,2,-8.123,1,0.0613,0.0708,0.00545,0.127,0.942,123.118
+The Sound of Rock,0zWuOowhDnhikrtBH5w9eT,Basket Case,['Green Day'],Dookie,1994-01-28,1994,182916,False,46,0.31,0.923,3,-5.242,1,0.0771,0.00583,1.77e-06,0.087,0.747,177.029
+The Sound of Rock,6dGnYIeXmHdcikdzNNDMm2,Here Comes The Sun - Remastered 2009,['The Beatles'],Abbey Road (Remastered),1969-09-26,1969,185733,False,87,0.557,0.54,9,-10.484,1,0.0347,0.0339,0.00248,0.179,0.394,129.171
+The Sound of Rock,6HSXNV0b4M4cLJ7ljgVVeh,Knockin' On Heaven's Door,['Bob Dylan'],Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture),1973-07-13,1973,149880,False,79,0.513,0.396,7,-13.061,1,0.0299,0.251,0.177,0.11,0.229,140.208
+The Sound of Rock,5ruzrDWcT0vuJIOMW7gMnW,The Adults Are Talking,['The Strokes'],The New Abnormal,2020-04-10,2020,309053,False,83,0.593,0.749,5,-5.67,1,0.0475,0.0113,0.106,0.314,0.649,164.959
+The Sound of Rock,3pHpV3pa96s4vuBP7sQq0V,Is This Love - 2018 Remaster,['Whitesnake'],Whitesnake (2018 Remaster),1987-01-01,1987,284496,False,71,0.263,0.759,0,-7.288,1,0.0431,0.0555,0.0,0.231,0.429,179.904
+The Sound of Rock,2lFFiNm0XtgJ6wkdncTB4k,Drive - 2017 Remaster,['The Cars'],Heartbeat City (Expanded Edition),1984-01-01,1984,234332,False,75,0.261,0.703,6,-7.871,1,0.0414,0.115,0.00078,0.102,0.405,83.495
+The Sound of Rock,2LawezPeJhN4AWuSB0GtAU,Have You Ever Seen The Rain,['Creedence Clearwater Revival'],Pendulum (Expanded Edition),1970-12-07,1970,160133,False,90,0.741,0.697,0,-7.028,1,0.0277,0.0664,2.28e-05,0.133,0.774,116.109
+The Sound of Rock,5vd1QZ0tdXOExiegC55IAS,Heart Of Gold,['Neil Young'],"Eat, Pray, Love",2010-01-01,2010,188440,False,77,0.55,0.525,7,-8.754,1,0.0275,0.288,0.0172,0.106,0.806,171.172
+The Sound of Rock,003vvx7Niy0yvhvHt4a68B,Mr. Brightside,['The Killers'],Hot Fuss,2004-01-01,2004,222973,False,90,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0,0.0995,0.236,148.033
+The Sound of Rock,5G1sTBGbZT5o4PNRc75RKI,Lonely Boy,['The Black Keys'],El Camino,2011-12-06,2011,193653,False,81,0.356,0.872,2,-7.837,1,0.068,0.00417,0.00975,0.0997,0.607,166.3
+The Sound of Rock,1bp2IO61zbQrbWNmKKxg3f,The Joker,['Steve Miller Band'],The Joker,1973-01-01,1973,264503,False,78,0.596,0.448,5,-9.616,1,0.0396,0.365,5.3e-06,0.206,0.796,83.293
+The Sound of Rock,5qqabIl2vWzo9ApSC317sa,Wonderwall - Remastered,['Oasis'],(What's The Story) Morning Glory? [Remastered],1995-10-02,1995,258773,False,81,0.378,0.896,2,-4.066,1,0.0407,0.000452,0.0,0.194,0.469,174.302
+The Sound of Rock,6zeE5tKyr8Nu882DQhhSQI,Dust in the Wind,['Kansas'],Point Of Know Return (Expanded Edition),1977-01-01,1977,206266,False,81,0.475,0.322,7,-10.687,1,0.0283,0.367,0.00056,0.11,0.387,93.503
+The Sound of Rock,2RaA6kIcvomt77qlIgGhCT,Breaking the Law,['Judas Priest'],British Steel,1980-01-01,1980,153840,False,75,0.362,0.961,2,-5.664,1,0.0857,0.024,9.35e-06,0.159,0.491,164.019
+The Sound of Rock,34iOH7LY3vme5rQxsVILZ4,Love Will Tear Us Apart - 2020 Remaster,['Joy Division'],Love Will Tear Us Apart,1980-06-01,1980,208453,False,74,0.527,0.923,2,-7.458,1,0.0379,0.000541,0.765,0.127,0.899,146.924
+The Sound of Rock,2ccUQnjjNWT0rsNnsBpsCA,Surrender,['Cheap Trick'],Heaven Tonight,1978-04-01,1978,253733,False,71,0.524,0.955,0,-7.081,1,0.0411,0.00717,8.77e-06,0.659,0.869,133.849
+The Sound of Rock,20I8RduZC2PWMWTDCZuuAN,Take Me Out,['Franz Ferdinand'],Franz Ferdinand,2004-02-16,2004,237026,False,83,0.277,0.663,4,-8.821,0,0.0377,0.000409,0.00051,0.136,0.527,104.561
+The Sound of Rock,1JLn8RhQzHz3qDqsChcmBl,I Want to Know What Love Is - 1999 Remaster,['Foreigner'],Agent Provocateur,1984-12-12,1984,304786,False,84,0.477,0.471,6,-10.036,1,0.0277,0.193,1.76e-06,0.131,0.423,81.204
+The Sound of Rock,5moTxUGPZXgGmosl4rIELm,Anarchy In The UK,['Sex Pistols'],"Never Mind The Bollocks, Here’s The Sex Pistols",1977-10-27,1977,212480,False,63,0.359,0.949,0,-7.649,1,0.101,0.0556,0.000396,0.236,0.212,134.118
+The Sound of Rock,2m1hi0nfMR9vdGC8UcrnwU,All The Small Things,['blink-182'],Enema Of The State,1999-06-01,1999,167066,False,86,0.434,0.897,0,-4.918,1,0.0488,0.0103,0.0,0.612,0.684,148.726
+The Sound of Rock,0ofHAoxe9vBkTCp2UQIavz,Dreams - 2004 Remaster,['Fleetwood Mac'],Rumours (Super Deluxe),1977-02-04,1977,257800,False,89,0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151
+The Sound of Rock,11VwZwNF29HrqwalYUMitb,Pale Blue Eyes,['The Velvet Underground'],The Velvet Underground (45th Anniversary),1969-01-01,1969,339533,False,68,0.637,0.107,5,-18.759,1,0.0349,0.911,0.00146,0.103,0.296,82.879
+The Sound of Rock,2zFdsAIk9r2Mi7Lmm1w3sM,That's All - 2007 Remaster,['Genesis'],Genesis (2007 Remaster),1983-10-03,1983,264573,False,75,0.596,0.657,4,-8.784,0,0.0345,0.235,0.0139,0.102,0.774,175.263
+The Sound of Rock,6zC0mpGYwbNTpk9SKwh08f,Wonderful Tonight,['Eric Clapton'],Slowhand 35th Anniversary (Super Deluxe),1977-11-01,1977,225026,False,77,0.572,0.214,7,-15.625,1,0.0293,0.649,0.129,0.125,0.485,95.542
+The Sound of Rock,5mR858YsHYG761aUqZoGkD,Symphony Of Destruction - Remastered 2012,['Megadeth'],Countdown To Extinction (Deluxe Edition - Remastered),1992-06-14,1992,241906,False,71,0.663,0.91,4,-5.131,0,0.0495,0.00052,0.675,0.112,0.708,140.044
+The Sound of Rock,7pKfPomDEeI4TPT6EOYjn9,Imagine - Remastered 2010,['John Lennon'],Imagine,1971-09-09,1971,187866,False,81,0.547,0.257,0,-12.358,1,0.0252,0.907,0.183,0.0935,0.169,75.752
+The Sound of Rock,43DeSV93pJPT4lCZaWZ6b1,The Boys Are Back In Town,['Thin Lizzy'],Jailbreak (Deluxe Edition),1976-01-01,1976,266720,False,76,0.445,0.706,8,-9.803,1,0.0461,0.234,0.000252,0.205,0.768,80.823
+The Sound of Rock,7c1Dar0pIAW7w5TzaGjt9t,Jane Says,"[""Jane's Addiction""]",Nothing's Shocking,1988-08-23,1988,287000,False,67,0.402,0.597,2,-9.258,1,0.0327,0.0385,2.09e-06,0.109,0.496,81.806
+The Sound of Rock,7fcfNW0XxTWlwVlftzfDOR,Walk,['Pantera'],Vulgar Display of Power,1992-02-21,1992,315120,True,78,0.43,0.704,1,-8.008,0,0.0804,0.000155,0.00221,0.0933,0.703,118.242
+The Sound of Rock,4ReyTz0y3TGkX48wO3Llot,Epic,['Faith No More'],The Real Thing,1989-01-01,1989,293653,False,72,0.358,0.893,4,-7.486,0,0.12,0.0222,0.0524,0.126,0.262,174.238
+The Sound of Rock,4IHc6SzGPnzSPuHVEPzpJc,Wouldn't It Be Nice,['The Beach Boys'],Pet Sounds,1966-05-16,1966,153240,False,73,0.392,0.629,5,-7.056,1,0.0334,0.718,3.65e-06,0.129,0.72,124.511
+The Sound of Rock,0KZodeWxqxd88F9wY1cqgs,My Sweet Lord (2014 Remaster),['George Harrison'],All Things Must Pass (2014 Remaster),1970-11-20,1970,281231,False,78,0.54,0.688,1,-9.021,0,0.0331,0.0812,0.0,0.0857,0.564,120.981
+The Sound of Rock,0ntQJM78wzOLVeCUAW7Y45,Sex on Fire,['Kings of Leon'],Only By The Night,2008-09-23,2008,203346,False,85,0.542,0.905,9,-5.653,1,0.054,0.00172,0.0104,0.136,0.374,153.398
+The Sound of Rock,6W21LNLz9Sw7sUSNWMSHRu,Freak On a Leash,['Korn'],Follow The Leader,1998-08-18,1998,255733,True,80,0.353,0.898,2,-5.877,1,0.052,2.23e-05,0.105,0.39,0.525,103.293
+The Sound of Rock,0GTK6TesV108Jj5D3MHsYb,Owner of a Lonely Heart,['Yes'],90125 (Deluxe Version),1983-06-01,1983,268506,False,73,0.744,0.798,7,-5.981,1,0.0364,0.175,0.00367,0.26,0.89,125.061
+The Sound of Rock,1hlveB9M6ijHZRbzZ2teyh,We're Not Gonna Take It,['Twisted Sister'],Stay Hungry,1984-05-10,1984,219666,False,77,0.502,0.924,4,-6.299,1,0.0503,0.0127,0.0,0.162,0.922,149.186
+The Sound of Rock,3ovjw5HZZv43SxTwApooCM,Wind Of Change,['Scorpions'],Crazy World,1990-01-01,1990,312360,False,82,0.452,0.524,0,-10.108,1,0.0351,0.315,0.0,0.103,0.246,151.505
+The Sound of Rock,7nnWIPM5hwE3DaUBkvOIpy,Drive,['Incubus'],Make Yourself,1999-10-26,1999,232453,False,80,0.645,0.792,4,-7.34,0,0.036,0.0562,0.0121,0.119,0.666,90.565
+The Sound of Rock,3acBQxxlyb0jC2xqndDzSf,"You Know My Name - From ""Casino Royale"" Soundtrack",['Chris Cornell'],Carry On,2007-01-01,2007,240120,False,61,0.366,0.869,11,-3.316,0,0.0387,0.0207,0.0,0.254,0.384,138.051
+The Sound of Rock,3KPwt1LBpt1jVSHz8GXERo,Feel like Makin' Love - 2015 Remaster,['Bad Company'],Straight Shooter,1975-01-01,1975,313840,False,68,0.543,0.529,7,-9.717,1,0.0301,0.326,0.00269,0.709,0.746,85.126
+The Sound of Rock,57iDDD9N9tTWe75x6qhStw,Bitter Sweet Symphony - Remastered 2016,['The Verve'],Urban Hymns (Remastered 2016),1997-09-29,1997,357266,False,83,0.356,0.917,9,-6.006,1,0.0479,0.0335,0.0,0.406,0.518,171.176
+The Sound of Rock,2tznHmp70DxMyr2XhWLOW0,Cigarette Daydreams,['Cage The Elephant'],Melophobia,2013-10-08,2013,208760,False,82,0.636,0.676,2,-3.442,1,0.0263,0.0807,0.0,0.0831,0.273,113.98
+The Sound of Rock,2oDqmfa2g8W893LlwJG1qu,Closer,['Nine Inch Nails'],The Downward Spiral,1994-03-08,1994,373000,True,70,0.547,0.714,10,-8.628,0,0.044,0.000242,0.636,0.122,0.541,89.996
+The Sound of Rock,3Nf8oGn1okobzjDcFCvT6n,I'll Stand by You,['Pretenders'],Last of the Independents,1994-06-01,1994,240760,False,75,0.438,0.606,7,-6.549,1,0.0305,0.3,4.49e-06,0.0754,0.266,133.822
+The Sound of Rock,6ADSaE87h8Y3lccZlBJdXH,With Or Without You,['U2'],The Joshua Tree (Super Deluxe),1987-03-03,1987,295515,False,83,0.54,0.429,2,-11.822,1,0.0285,0.000202,0.355,0.141,0.113,110.171
+The Sound of Rock,43GS3mtezoIFiuIZCLLiDY,Every Rose Has Its Thorn - 2003 Remaster,['Poison'],Open Up And Say...Ahh! (20th Anniversary Edition),1988-03-21,1988,260173,False,74,0.533,0.637,6,-5.571,1,0.0323,0.16,1.12e-05,0.369,0.292,140.167
+The Sound of Rock,1a2iF9XymafjRk56q7oCxo,Pride and Joy,['Stevie Ray Vaughan'],Texas Flood (Legacy Edition),1983-01-01,1983,219586,False,70,0.427,0.626,8,-11.821,1,0.0385,0.0274,0.00395,0.106,0.743,126.877
+The Sound of Rock,7EZC6E7UjZe63f1jRmkWxt,Zombie,['The Cranberries'],No Need To Argue (The Complete Sessions 1994-1995),1994-10-03,1994,306440,False,86,0.309,0.649,7,-8.994,1,0.035,0.0158,0.00591,0.367,0.312,166.915
+The Sound of Rock,5XTdMVT5i5qcfyTXWxhxVZ,Ghost Song,"['Jim Morrison', 'The Doors']",An American Prayer,1978-01-01,1978,170666,False,60,0.764,0.48,0,-13.63,1,0.0819,0.416,0.316,0.107,0.705,110.175
+The Sound of Rock,39lSeqnyjZJejRuaREfyLL,Hungry Like the Wolf - 2009 Remaster,['Duran Duran'],Rio (Collector's Edition),1982-05-10,1982,220626,False,77,0.691,0.812,0,-7.772,1,0.0558,0.0433,1.16e-06,0.299,0.685,127.568
+The Sound of Rock,5RKQ5NdjSh2QzD4MaunT91,Don't Stop Believin' (2022 Remaster),['Journey'],Escape (2022 Remaster),1981-07-17,1981,249600,False,86,0.505,0.754,4,-7.435,1,0.0366,0.132,0.0,0.204,0.51,119.204
+The Sound of Rock,7kF1iPJTj3VFJX9XokQ80F,Slither,['Velvet Revolver'],Contraband,2004-01-01,2004,248306,False,64,0.478,0.974,7,-3.866,1,0.102,0.000266,0.0984,0.0738,0.268,141.077
+The Sound of Rock,40riOy7x9W7GXjyGp4pjAv,Hotel California - 2013 Remaster,['Eagles'],Hotel California (2013 Remaster),1976-12-08,1976,391376,False,87,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125
+The Sound of Rock,1CQqupcyMg7176PPmIVmSj,Renegade,['Styx'],Pieces Of Eight,1978-01-01,1978,257226,False,70,0.492,0.552,7,-12.321,0,0.0341,0.0151,3.74e-05,0.0723,0.655,105.623
+The Sound of Rock,5p3JunprHCxClJjOmcLV8G,Walk On the Wild Side,['Lou Reed'],Transformer,1972-12-01,1972,254173,False,75,0.575,0.318,0,-16.729,1,0.109,0.683,0.000202,0.0934,0.385,104.522
+The Sound of Rock,54yLLvpezvPO1lA3GspiZj,Holy Diver,['Dio'],Holy Diver,1983-01-01,1983,340640,False,68,0.473,0.783,10,-10.671,0,0.0869,0.0125,0.475,0.268,0.124,91.976
+The Sound of Rock,05NYcsjJwOYq4jIiKPVj9p,Hard To Handle,['The Black Crowes'],Shake Your Money Maker,1990-02-13,1990,188066,False,74,0.599,0.79,4,-3.58,1,0.043,0.00257,0.00181,0.312,0.961,103.783
+The Sound of Rock,1H4idkmruFoJBg1DvUv2tY,Band On The Run - 2010 Remaster,"['Paul McCartney', 'Wings']",Band On The Run (Standard),1973-12-05,1973,313026,False,75,0.479,0.601,7,-8.806,1,0.0318,0.0832,0.00142,0.11,0.669,124.966
+The Sound of Rock,0Puj4YlTm6xNzDDADXHMI9,Sabotage,['Beastie Boys'],Ill Communication,1994-05-23,1994,178440,True,77,0.324,0.938,6,-7.332,0,0.102,0.032,0.0321,0.0961,0.543,168.131
+The Sound of Rock,5T8EDUDqKcs6OSOwEsfqG7,Don't Stop Me Now - Remastered 2011,['Queen'],Jazz (2011 Remaster),1978-11-10,1978,209413,False,86,0.559,0.868,5,-5.276,1,0.17,0.0475,0.000176,0.776,0.609,156.295
+The Sound of Rock,5cZqsjVs6MevCnAkasbEOX,Break Stuff,['Limp Bizkit'],Significant Other,1999-01-01,1999,166706,True,84,0.432,0.884,8,-6.659,1,0.13,0.0127,0.000527,0.166,0.624,108.948
+The Sound of Rock,2QfiRTz5Yc8DdShCxG1tB2,Johnny B. Goode,['Chuck Berry'],Berry Is On Top,1959-07-01,1959,161560,False,79,0.534,0.803,10,-9.129,1,0.0743,0.741,6.07e-05,0.307,0.969,167.983
+The Sound of Rock,1hHGUdFaiJHw9hVZGJWYO2,Midnight Rider,['Allman Brothers Band'],Idlewild South (Deluxe Edition Remastered),1970-09-18,1970,180066,False,74,0.585,0.532,7,-9.673,1,0.0268,0.209,0.00797,0.227,0.68,94.461
+The Sound of Rock,01Mpj13vURSO3cCLprPt5T,Raining Blood,['Slayer'],Reign In Blood,1986-01-01,1986,254400,False,66,0.294,0.995,1,-4.383,0,0.168,0.000489,0.331,0.128,0.0379,88.777
+The Sound of Rock,4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,['Tears For Fears'],Songs From The Big Chair (Super Deluxe Edition),1985-02-25,1985,251488,False,90,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067
+The Sound of Rock,5UuikgHTxSRFRnC0zXx10i,Aqualung,['Jethro Tull'],Aqualung (Special Edition),1971-03-19,1971,396186,False,63,0.477,0.479,7,-11.887,0,0.0483,0.0649,0.029,0.0906,0.662,122.531
+The Sound of Rock,4a5pNRjwmzYQuEY1E7O6pj,Breakfast In America - 2010 Remastered,['Supertramp'],Breakfast In America (Deluxe Edition),1979-03-29,1979,159346,False,80,0.532,0.663,0,-5.886,0,0.0292,0.425,1.07e-06,0.0734,0.756,75.14
+The Sound of Rock,5buITai6eMzU8rJonMEI6e,Glycerine - Remastered,['Bush'],Sixteen Stone (Remastered),1994-12-06,1994,266493,False,65,0.421,0.335,5,-11.384,1,0.0324,0.0342,0.00236,0.0944,0.0889,114.227
+The Sound of Rock,6txWz9UapYHVxEd7dDIHXT,No Rain,['Blind Melon'],Blind Melon,1992-01-01,1992,217106,False,78,0.389,0.476,9,-9.342,1,0.0316,0.619,5.09e-05,0.255,0.566,148.117
+The Sound of Rock,2374M0fQpWi3dLnB54qaLX,Africa,['TOTO'],Toto IV,1982-04-08,1982,295893,False,87,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718
+The Sound of Rock,0vOkmmJEtjuFZDzrQSFzEE,Hit Me With Your Best Shot,['Pat Benatar'],Crimes Of Passion,1980-08-05,1980,171266,False,76,0.741,0.58,4,-9.05,1,0.0304,0.117,3.31e-05,0.212,0.944,127.402
+The Sound of Rock,3h04eZTnmFLRMjZajbrp2R,Need You Tonight,['INXS'],Kick (Remastered 2011),1987-01-01,1987,181106,False,78,0.795,0.63,10,-7.217,0,0.0841,0.0419,0.575,0.0894,0.785,108.701
+The Sound of Rock,5PntSbMHC1ud6Vvl8x56qd,Loser,['Beck'],Mellow Gold,1994-03-01,1994,235000,False,74,0.654,0.611,2,-10.45,1,0.119,0.0337,0.000178,0.405,0.786,85.387
+The Sound of Rock,0WQiDwKJclirSYG9v5tayI,There Is a Light That Never Goes Out - 2011 Remaster,['The Smiths'],The Queen Is Dead,1986-06-16,1986,244586,False,84,0.523,0.769,4,-5.855,1,0.0269,0.04,0.0,0.136,0.876,136.162
+The Sound of Rock,0W7AbEauB7cP4pidLclApe,Hunger Strike,['Temple Of The Dog'],Temple Of The Dog,1990-01-01,1990,246266,False,68,0.373,0.567,7,-10.835,1,0.032,0.0236,3.47e-06,0.0916,0.298,137.789
+The Sound of Rock,0d28khcov6AiegSCpG5TuT,Feel Good Inc.,['Gorillaz'],Demon Days,2005-05-23,2005,222640,False,87,0.818,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.772,138.559
+The Sound of Rock,2RlgNHKcydI9sayD2Df2xp,Mr. Blue Sky,['Electric Light Orchestra'],Out of the Blue,1977-01-01,1977,303373,False,81,0.388,0.338,10,-10.054,1,0.0329,0.652,3.73e-06,0.248,0.478,177.765
+The Sound of Rock,6VnpKLtfNH4Dk09YSGPSyR,It Ain't Over 'Til It's Over,['Lenny Kravitz'],Mama Said,1991-04-02,1991,242640,False,79,0.679,0.568,6,-10.74,1,0.0423,0.422,0.00928,0.322,0.93,159.69
+The Sound of Rock,3vV3cr2TpPqFk07zxYUbla,Cum on Feel the Noize,['Quiet Riot'],Metal Health,1983-01-01,1983,290960,False,73,0.409,0.92,11,-5.439,0,0.12,0.00719,0.00105,0.0823,0.37,145.085
+The Sound of Rock,5EOoMWIB9iK4ZpcSex9Ec7,Old Time Rock & Roll,['Bob Seger'],Stranger In Town,1978-05-05,1978,194146,False,79,0.714,0.937,6,-2.947,1,0.0399,0.206,0.0,0.0731,0.964,124.13
+The Sound of Rock,7257drAN3eTtaaUUPw95B3,Big Log - 2006 Remaster,['Robert Plant'],The Principle of Moments,1983-01-01,1983,304800,False,63,0.554,0.639,9,-7.163,0,0.0278,0.359,0.00274,0.205,0.644,180.638
+The Sound of Rock,7j31rVgGX9Q2blT92VBEA0,Teenagers,['My Chemical Romance'],The Black Parade,2006-10-23,2006,161920,False,84,0.463,0.857,4,-3.063,1,0.0632,0.0506,0.0,0.184,0.856,111.647
+The Sound of Rock,61mWefnWQOLf90gepjOCb3,Duality,['Slipknot'],Vol. 3: The Subliminal Verses,2004-01-01,2004,252613,False,83,0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772
+The Sound of Rock,37ZJ0p5Jm13JPevGcx4SkF,Livin' On A Prayer,['Bon Jovi'],Slippery When Wet,1986-08-16,1986,249293,False,89,0.532,0.887,0,-3.757,1,0.0335,0.0778,0.000214,0.294,0.795,122.511
+The Sound of Rock,3620P9KJS2PDebJ9ABFitc,18 and Life,['Skid Row'],Skid Row,1989-01-24,1989,229960,False,55,0.303,0.648,1,-11.101,0,0.0347,0.00226,1.49e-05,0.112,0.305,180.898
+The Sound of Rock,4rcHWl68ai6KvpXlc8vbnE,Keep on Loving You,['REO Speedwagon'],Hi Infidelity (30th Anniversary Edition),1980-01-01,1980,200293,False,77,0.306,0.722,0,-5.963,1,0.034,0.0519,0.0,0.117,0.41,174.732
+The Sound of Rock,2f0P7iELCvAlV8j6Z3rGDE,Stranglehold,['Ted Nugent'],Ted Nugent,1975-01-01,1975,503066,False,65,0.484,0.711,2,-7.784,1,0.0331,0.0183,0.173,0.0941,0.49,148.189
+The Sound of Rock,5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,['Arctic Monkeys'],AM,2013-09-09,2013,183956,False,96,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528
+The Sound of Rock,2aIB1CdRRG7YLBu9hNw9nR,The Beautiful People,['Marilyn Manson'],Antichrist Superstar,1996-01-01,1996,218826,True,77,0.621,0.834,10,-10.068,0,0.0557,0.000779,0.456,0.0611,0.937,143.973
+The Sound of Rock,5iItYl3Q6wCnKVfpK1uNVf,The Suburbs,['Arcade Fire'],The Suburbs (Deluxe),2010-07-01,2010,315026,False,69,0.619,0.686,6,-6.125,0,0.0265,0.0565,0.0237,0.142,0.538,117.777
+The Sound of Rock,28cnXtME493VX9NOw9cIUh,Hurt,['Johnny Cash'],American IV: The Man Comes Around,2002-01-01,2002,216533,False,76,0.534,0.392,9,-7.636,0,0.0267,0.649,0.000227,0.0948,0.163,90.379
+The Sound of Rock,4iG2gAwKXsOcijVaVXzRPW,Time to Pretend,['MGMT'],Oracular Spectacular,2007-12-14,2007,261000,True,83,0.438,0.94,2,-3.249,1,0.0452,8.74e-05,0.0777,0.3,0.421,100.99
+The Sound of Rock,4xlEKYv7HmC8zXoJIbpZKM,"Steady, As She Goes",['The Raconteurs'],Broken Boy Soldiers,2006-05-15,2006,215266,False,71,0.525,0.578,9,-4.563,1,0.12,0.0132,0.00916,0.108,0.537,123.696
+The Sound of Rock,7Ar4G7Ci11gpt6sfH9Cgz5,Listen to the Music,['The Doobie Brothers'],Toulouse Street,1972-01-01,1972,227266,False,80,0.645,0.598,1,-13.18,0,0.0335,0.221,3.53e-06,0.0721,0.913,105.929
+The Sound of Rock,5zA8vzDGqPl2AzZkEYQGKh,Uptown Girl,['Billy Joel'],An Innocent Man,1983-08-08,1983,197706,False,84,0.701,0.944,4,-2.986,1,0.0455,0.0755,0.0,0.601,0.792,128.993
+The Sound of Rock,6BD1X1PeV5UzYUdiVaD2yL,Show Me The Way,['Peter Frampton'],Frampton,1975-01-01,1975,243266,False,69,0.7,0.726,2,-7.717,1,0.0329,0.434,1.1e-06,0.0963,0.641,130.109
+The Sound of Rock,37Tmv4NnfQeb0ZgUC4fOJj,Sultans Of Swing,['Dire Straits'],Dire Straits,1978-10-07,1978,348400,False,84,0.733,0.794,5,-10.023,1,0.0307,0.0614,0.0367,0.33,0.931,148.174
+The Sound of Rock,51c94ac31swyDQj9B3Lzs3,Change (In the House of Flies),['Deftones'],White Pony,2000-05-16,2000,299533,False,81,0.269,0.853,7,-4.647,0,0.0854,0.000249,0.000246,0.118,0.179,141.581
+The Sound of Rock,43btz2xjMKpcmjkuRsvxyg,Jack & Diane,['John Mellencamp'],American Fool,1982-01-01,1982,254493,False,76,0.811,0.41,9,-8.214,1,0.0391,0.0365,6.63e-06,0.0799,0.626,103.965
+The Sound of Rock,5W8YXBz9MTIDyrpYaCg2Ky,Last Resort,['Papa Roach'],Infest,2001-04-25,2001,199906,True,84,0.589,0.89,4,-3.719,0,0.0603,0.000481,0.00082,0.201,0.692,90.598
+The Sound of Rock,55mJleti2WfWEFNFcBduhc,Schism,['TOOL'],Lateralus,2001-05-15,2001,403533,False,73,0.567,0.714,9,-8.512,0,0.0302,0.0012,0.417,0.186,0.191,107.441
+The Sound of Rock,6dNJ3lasVLPd0078T9yqlm,Joker And The Thief,['Wolfmother'],Wolfmother,2005-01-01,2005,279666,False,65,0.264,0.8,0,-2.427,1,0.0537,0.0195,0.00744,0.406,0.465,155.558
+The Sound of Rock,7FwBtcecmlpc1sLySPXeGE,Dancing In the Dark,['Bruce Springsteen'],Born In The U.S.A.,1984-06-04,1984,241306,False,83,0.527,0.942,1,-5.64,0,0.0366,0.0115,0.0,0.188,0.495,148.723
+The Sound of Rock,4W4wYHtsrgDiivRASVOINL,Love Shack,"[""The B-52's""]",Cosmic Thing,1989-06-23,1989,320680,False,73,0.701,0.803,5,-6.786,0,0.0545,0.0544,1.54e-06,0.7,0.903,133.608
+The Sound of Rock,0WIbzDVEpmOyBnqqdtqIL9,Teen Age Riot (Album Version),['Sonic Youth'],Daydream Nation (Deluxe Edition),1988-10-04,1988,417800,False,63,0.286,0.907,7,-9.67,1,0.0374,0.000277,0.202,0.0837,0.746,156.395
+The Sound of Rock,2olVm1lHicpveMAo4AUDRB,The Power Of Love,['Huey Lewis & The News'],Greatest Hits: Huey Lewis And The News,2006-01-01,2006,234333,False,79,0.768,0.829,5,-5.109,1,0.0313,0.0964,2.92e-05,0.097,0.962,118.773
+The Sound of Rock,4qO03RMQm88DdpTJcxlglY,Call Me,['Blondie'],Atomic/Atomix,1999-01-01,1999,212600,False,77,0.56,0.825,2,-6.711,0,0.0347,0.000785,0.00246,0.0892,0.74,142.669
+The Sound of Rock,2hitsKa8SthKhRJBXUHbIv,Our House,"['Crosby, Stills, Nash & Young']",Deja Vu,1970-03-11,1970,179760,False,71,0.592,0.205,9,-14.601,1,0.048,0.896,5.46e-05,0.119,0.378,140.282
+The Sound of Rock,6Nm8h73ycDG2saCnZV8poF,Dragula,['Rob Zombie'],Hellbilly Deluxe,1998-01-01,1998,222826,False,81,0.591,0.963,0,-6.489,0,0.0531,8.74e-05,0.000107,0.0781,0.609,125.03
+The Sound of Rock,3ODl8J0TZAykdMCtCIO28n,Another Way to Die,"['Jack White', 'Alicia Keys']",As I Am (Expanded Edition),2007-11-09,2007,262240,False,58,0.486,0.765,4,-4.23,0,0.128,0.0239,3.02e-05,0.11,0.386,141.933
+The Sound of Rock,5pSvjjfsh34sLrkYSNGCl4,Down Under,['Men At Work'],Business As Usual,1981-01-01,1981,225706,False,66,0.738,0.809,11,-4.368,0,0.026,0.0964,0.00918,0.18,0.906,107.233
+The Sound of Rock,6JIC3hbC28JZKZ8AlAqX8h,Cold Heart - PNAU Remix,"['Elton John', 'Dua Lipa', 'PNAU']",The Lockdown Sessions,2021-10-22,2021,202735,False,84,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032
+The Sound of Rock,3cFnb3Rg9a7Gzqxc5QQ9YZ,Got The Time,['Anthrax'],Persistence Of Time (30th Anniversary Remaster),1990-08-21,1990,164333,False,63,0.371,0.973,10,-5.303,0,0.135,0.000641,0.00163,0.0423,0.444,127.721
+The Sound of Rock,6s0NHplywwr1IjnQpUpWJk,Bad To The Bone,['George Thorogood & The Destroyers'],BAD TO THE BONE,1982-01-01,1982,292173,False,72,0.459,0.727,0,-11.777,1,0.0303,0.00614,0.0652,0.384,0.955,149.231
+The Sound of Rock,6xq5DxZWGgdStAxGAil0yw,Since You Been Gone,['Rainbow'],Down To Earth,1979-01-01,1979,197160,False,71,0.733,0.726,7,-6.514,1,0.0371,0.379,2.58e-06,0.471,0.915,120.814
+The Sound of Rock,3MjrueDQKVr6xDDseZwhEd,Figure It Out,['Royal Blood'],Royal Blood,2014-08-22,2014,183602,False,70,0.658,0.814,0,-4.631,1,0.0558,0.229,0.00676,0.216,0.69,108.016
+The Sound of Rock,1UKobFsdqNXQb8OthimCKe,Helplessly Hoping - 2005 Remaster,"['Crosby, Stills & Nash']","Crosby, Stills & Nash",1969-05-29,1969,157893,False,71,0.483,0.159,7,-13.648,1,0.0353,0.914,0.0,0.111,0.423,146.721
+The Sound of Rock,3OUExRnXWXzMc5sJ39u7ru,Slow Ride (Edit),['Foghat'],Road Fever: The Complete Bearsville Recordings 1972-1975,2023-05-12,2023,232533,False,58,0.494,0.586,2,-13.909,1,0.0461,0.0201,0.00104,0.102,0.651,113.618
+The Sound of Rock,1cU34sZG9kF4FYHCoAD0Ib,Some Kind Of Wonderful - Remastered 1999,['Grand Funk Railroad'],30 Years Of Funk: 1969-1999 The Anthology,1999-01-01,1999,202733,False,70,0.855,0.691,2,-6.51,1,0.0514,0.144,0.0,0.36,0.647,121.472
+The Sound of Rock,3qLZ866ZfaK0B0R5FIqXLG,She Sells Sanctuary,['The Cult'],Love,1985-10-18,1985,252533,False,72,0.55,0.765,7,-8.684,1,0.0287,4.76e-06,0.873,0.132,0.419,139.46
+The Sound of Rock,4s6LhHAV5SEsOV0lC2tjvJ,California Dreamin' - Single Version,['The Mamas & The Papas'],If You Can Believe Your Eyes & Ears,1966-03-01,1966,162373,False,83,0.552,0.608,1,-9.786,0,0.0345,0.352,0.0,0.0533,0.637,112.367
+The Sound of Rock,6vZZtivPrtpggT5SSXsYTy,Solsbury Hill,['Peter Gabriel'],Peter Gabriel 1: Car (Remastered),1977-01-01,1977,261560,False,74,0.678,0.631,11,-8.624,1,0.0301,0.355,0.000268,0.376,0.463,102.378
+The Sound of Rock,2wvMC5EyaaYQwBfiwwY2xE,Life's Been Good,['Joe Walsh'],"But Seriously, Folks...",1978-06-01,1978,536226,False,68,0.505,0.476,2,-12.897,1,0.0711,0.25,0.00915,0.113,0.542,99.31
+The Sound of Rock,3HlbrnCBdrJ1NObHLMXSZh,Heart Full of Soul - 2015 Remaster,['The Yardbirds'],Having a Rave Up with The Yardbirds (2015 Remaster),1965-01-01,1965,147893,False,56,0.492,0.666,9,-9.743,0,0.0351,0.231,5.69e-05,0.0469,0.699,140.829
+The Sound of Rock,0HOrDVS349XFcpCYsO2hAP,You Ain't Seen Nothing Yet,['Bachman-Turner Overdrive'],Not Fragile,1974-01-01,1974,234866,False,74,0.475,0.439,11,-15.039,0,0.0427,0.000146,0.000277,0.223,0.76,118.392
+The Sound of Rock,0jqK7sGTLsHPkQrrcrGuKD,Still Waiting,['Sum 41'],Does This Look Infected?,2002-01-01,2002,158733,True,75,0.431,0.95,7,-4.918,1,0.26,0.00105,3.63e-05,0.272,0.56,191.936
+The Sound of Rock,1x1XQqhBViz4opcpwc7FVs,Reelin' In The Years,['Steely Dan'],Can't Buy A Thrill,1972-11-01,1972,277467,False,76,0.494,0.54,2,-17.34,1,0.0348,0.154,0.0,0.0878,0.723,134.976
+The Sound of Rock,7JJ22vCP45tMhZnAH4Sp1e,Anastasia,"['Slash', 'Myles Kennedy And The Conspirators']",Apocalyptic Love,2012-01-01,2012,367280,False,48,0.442,0.939,1,-5.461,1,0.0445,0.000673,0.00149,0.117,0.479,100.561
+The Sound of Rock,40rvBMQizxkIqnjPdEWY1v,Down with the Sickness,['Disturbed'],The Sickness,2000-03-07,2000,279213,True,80,0.695,0.876,3,-4.262,0,0.0553,0.000996,6.89e-06,0.106,0.941,89.954
+The Sound of Rock,0LoQuiekvzqx7n8flgEKzF,Get It On,['T. Rex'],Electric Warrior,1971-09-24,1971,262613,False,73,0.728,0.878,11,-6.926,0,0.0564,0.176,0.856,0.61,0.911,126.59
+The Sound of Rock,1i5oEx2vFczQ2sCY3c6Kn5,Love Hurts,['Nazareth'],Hair Of The Dog,1975-01-01,1975,233133,False,61,0.485,0.328,7,-11.853,1,0.0254,0.00596,0.0032,0.325,0.138,79.766
+The Sound of Rock,6urCAbunOQI4bLhmGpX7iS,Don't Speak,['No Doubt'],Tragic Kingdom,1995-10-10,1995,263560,False,81,0.52,0.709,5,-7.125,0,0.0352,0.247,1.78e-05,0.18,0.536,76.039
+The Sound of Rock,54X78diSLoUDI3joC2bjMz,Purple Rain,['Prince'],Purple Rain,1984-06-25,1984,520786,False,77,0.367,0.452,10,-10.422,1,0.0307,0.0353,0.00228,0.689,0.189,113.066
+The Sound of Rock,5y788ya4NvwhBznoDIcXwK,The Sound of Silence - Acoustic Version,['Simon & Garfunkel'],"Wednesday Morning, 3 A.M.",1964-10-19,1964,185413,False,77,0.525,0.216,6,-13.551,1,0.0301,0.837,0.0,0.107,0.328,106.761
+The Sound of Rock,3CRDbSIZ4r5MsZ0YwxuEkn,Stressed Out,['Twenty One Pilots'],Blurryface,2015-05-15,2015,202333,False,88,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977
+The Sound of Rock,4absiGHMelB8eH976ytjBj,Evil,['Interpol'],Antics,2004-09-27,2004,215826,False,69,0.489,0.769,5,-3.524,1,0.038,0.00135,0.56,0.0727,0.637,128.985
+The Sound of Rock,6GG73Jik4jUlQCkKg9JuGO,The Middle,['Jimmy Eat World'],Bleed American,2001-07-17,2001,165853,False,85,0.643,0.849,2,-5.428,1,0.0526,0.0371,0.0,0.058,0.903,162.152
+The Sound of Rock,3LQPTJEqOfljGBxmpgUnoC,American Woman,['The Guess Who'],American Woman,1970-01-01,1970,307493,False,66,0.55,0.726,2,-8.51,1,0.0516,0.146,0.00608,0.428,0.37,92.697
+The Sound of Rock,0Ln5tJyLX5qusquBOtq7wf,Fire,['Kasabian'],West Ryder Pauper Lunatic Asylum,2009-01-01,2009,252279,False,69,0.525,0.742,10,-5.643,1,0.0311,0.0874,0.149,0.117,0.179,117.029
+The Sound of Rock,2kkvB3RNRzwjFdGhaUA0tz,Layla,['Derek & The Dominos'],Layla And Other Assorted Love Songs (Remastered 2010),1970-11-01,1970,423840,False,76,0.404,0.902,1,-3.88,1,0.0665,0.577,0.297,0.287,0.497,115.669
+The Sound of Rock,0KMGxYKeUzK9wc5DZCt3HT,If You Leave Me Now,['Chicago'],Chicago X,1976-06-14,1976,235373,False,79,0.434,0.563,11,-6.784,1,0.0268,0.0197,0.000824,0.128,0.275,104.183
+The Sound of Rock,4wGSg2Qqpt2sGCWuAZj6EN,Enjoy the Silence,"['Depeche Mode', 'Daniel Miller', 'Phil Legg']","Violator | The 12"" Singles",2020-07-17,2020,257630,False,70,0.626,0.667,0,-11.817,0,0.0283,0.209,0.000257,0.0779,0.83,112.776
+The Sound of Rock,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,['Tame Impala'],Currents,2015-07-17,2015,216320,True,88,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879
+The Sound of Rock,60a0Rd6pjrkxjPbaKzXjfq,In the End,['Linkin Park'],Hybrid Theory (Bonus Edition),2000-01-01,2000,216880,False,90,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143
+The Sound of Rock,6L5BZEcZmD6RBJnimzlyKr,Nights In White Satin - Single Version / Mono,['The Moody Blues'],Days Of Future Passed (Deluxe Version),1967-11-10,1967,269106,False,69,0.195,0.483,4,-4.991,0,0.03,0.465,0.497,0.0686,0.173,84.71
+The Sound of Rock,0VV8wkOM4w78A2OHZOTzNP,Live And Let Die - 2018 Remaster,['Wings'],Red Rose Speedway (Archive Collection),1973-04-30,1973,192773,False,69,0.391,0.375,7,-12.573,1,0.046,0.0797,0.013,0.143,0.116,153.802
+The Sound of Rock,4o6BgsqLIBViaGVbx5rbRk,You Make My Dreams (Come True),['Daryl Hall & John Oates'],Voices,1980-01-01,1980,190626,False,84,0.751,0.501,5,-12.151,1,0.0551,0.234,0.112,0.0467,0.902,167.057
+The Sound of Rock,5qBqBdfTEIWJwAS0Jm2F5R,Turn! Turn! Turn! (To Everything There Is a Season),['The Byrds'],Turn! Turn! Turn!,1965-12-06,1965,229360,False,67,0.451,0.818,2,-8.124,1,0.0439,0.135,2.92e-05,0.052,0.755,124.532
+The Sound of Rock,2RNd6VgxG19db0zs0M1C4Z,Jane,['Jefferson Starship'],Freedom At Point Zero,1979-11-01,1979,252200,False,62,0.589,0.82,2,-9.602,1,0.0369,0.204,0.018,0.423,0.788,117.305
+The Sound of Rock,5DiXcVovI0FcY2s0icWWUu,Mr. Jones,['Counting Crows'],August And Everything After,1993-01-01,1993,272293,False,81,0.578,0.817,0,-6.542,1,0.0363,0.183,3.06e-06,0.285,0.726,141.621
+The Sound of Rock,4tvBoSWeIW0bjhKNre5mod,Thunder Kiss '65,['White Zombie'],La Sexorcisto: Devil Music Volume 1,1992-01-01,1992,234080,False,68,0.684,0.851,9,-9.792,1,0.0407,0.000613,0.0029,0.535,0.512,112.662
+The Sound of Rock,4U6mBgGP8FXN6UH4T3AJhu,"Up Where We Belong - From ""An Officer And A Gentleman""","['Joe Cocker', 'Jennifer Warnes']",The Anthology,1999-08-17,1999,232666,False,73,0.624,0.306,2,-11.831,1,0.0318,0.634,2.67e-05,0.0632,0.227,139.912
+The Sound of Rock,3fH4KjXFYMmljxrcGrbPj9,Don't You (Forget About Me),['Simple Minds'],Once Upon A Time (Super Deluxe),1985-01-01,1985,263040,False,79,0.66,0.816,2,-6.61,1,0.0299,0.168,0.0181,0.0608,0.678,111.346
+The Sound of Rock,2Srd8Jgif3kc6ou6Z4pSYJ,Every You Every Me,['Placebo'],Without You I'm Nothing,1998-10-12,1998,213800,False,71,0.478,0.923,10,-7.547,1,0.0569,2.7e-05,0.719,0.325,0.165,133.135
+The Sound of Rock,2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],"['Daft Punk', 'Pharrell Williams', 'Nile Rodgers']",Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],2013-04-19,2013,248413,False,83,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047
+The Sound of Rock,4HA2jo7wkMdN1lmLO6ryzE,End Of The Line,['Traveling Wilburys'],"The Traveling Wilburys, Vol. 1",1988-10-18,1988,209520,False,72,0.578,0.836,2,-6.607,1,0.0512,0.163,1.36e-06,0.0583,0.932,167.026
+The Sound of Rock,1XxUDJp9zsjd6tBSvE3la4,Heavy Metal,['Sammy Hagar'],Standing Hampton,1982-01-06,1982,230506,False,60,0.276,0.639,2,-11.674,1,0.0471,0.0178,0.0,0.292,0.643,186.502
+The Sound of Rock,5KDNFlHAdDJ84fhK27c35X,Judith,['A Perfect Circle'],Mer De Noms,2000-01-01,2000,247266,True,70,0.366,0.894,11,-4.682,0,0.0568,3.45e-05,0.17,0.267,0.304,82.305
+The Sound of Rock,6ZOBP3NvffbU4SZcrnt1k6,Kryptonite,['3 Doors Down'],The Better Life,2000-01-01,2000,233933,False,84,0.545,0.865,11,-5.708,0,0.0286,0.00664,1.1e-05,0.168,0.543,99.009
+The Sound of Rock,52KvuGmgcgRdrLMXOtda0E,The Stroke - Remastered 2010,['Billy Squier'],Don't Say No (Remastered 2010),1981-01-01,1981,217613,False,70,0.67,0.591,7,-6.012,1,0.0646,0.62,0.0,0.373,0.8,91.439
+The Sound of Rock,3MrRksHupTVEQ7YbA0FsZK,The Final Countdown,['Europe'],The Final Countdown (Expanded Edition),1986-01-01,1986,310333,False,80,0.529,0.843,6,-6.908,0,0.0616,0.0628,0.000827,0.0608,0.188,117.662
+The Sound of Rock,04aAxqtGp5pv12UXAg4pkq,Centuries,['Fall Out Boy'],American Beauty/American Psycho,2015-01-20,2015,228360,False,84,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042
+The Sound of Rock,1yjY7rpaAQvKwpdUliHx0d,Still into You,['Paramore'],Paramore,2013-04-05,2013,216013,False,83,0.602,0.923,5,-3.763,1,0.044,0.0098,0.0,0.0561,0.765,136.01
+The Sound of Rock,1qRA5BS78u3gME0loMl9AA,For What It's Worth,['Buffalo Springfield'],Buffalo Springfield,1966-12-05,1966,153693,False,82,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883
+The Sound of Rock,3G7tRC24Uh09Hmp1KZ7LQ2,I'm a Believer - 2006 Remaster,['The Monkees'],More of The Monkees (Deluxe Edition),1967-01-09,1967,167373,False,78,0.526,0.775,0,-6.05,1,0.0352,0.707,2.05e-05,0.217,0.962,80.106
+The Sound of Rock,77YKoNCjP5hWqiXMRG2839,Shine,['Collective Soul'],"Hints, Allegations & Things Left Unsaid",1994-03-22,1994,306040,False,73,0.543,0.423,6,-8.797,1,0.0282,0.295,0.0862,0.152,0.355,150.132
+The Sound of Rock,7BHPGtpuuWWsvE7cCaMuEU,Naive,['The Kooks'],Inside In / Inside Out,2006-01-01,2006,203506,False,80,0.391,0.808,8,-6.209,0,0.0892,0.0759,0.0,0.149,0.737,100.304
+The Sound of Rock,7w87IxuO7BDcJ3YUqCyMTT,Pumped Up Kicks,['Foster The People'],Torches,2011-05-23,2011,239600,False,86,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975
+The Sound of Rock,7aOor99o8NNLZYElOXlBG1,Highway Tune,['Greta Van Fleet'],From The Fires,2017-11-10,2017,180640,False,75,0.582,0.962,4,-3.037,1,0.0542,0.0096,0.128,0.283,0.506,123.971
+The Sound of Rock,1rBiNR61IhvbzeKwfs3AwE,Kool-Aid,['Bring Me The Horizon'],Kool-Aid,2024-01-05,2024,228470,True,81,0.248,0.949,5,-3.451,0,0.241,0.000213,1.31e-06,0.618,0.241,148.578
+The Sound of Rock,3yrSvpt2l1xhsV9Em88Pul,Brown Eyed Girl,['Van Morrison'],Blowin' Your Mind!,1967-09-01,1967,183306,False,84,0.491,0.583,7,-10.964,1,0.0376,0.185,0.0,0.406,0.908,150.566
+The Sound of Rock,3n69hLUdIsSa1WlRmjMZlW,Breezeblocks,['alt-J'],An Awesome Wave,2012-09-18,2012,227080,False,75,0.615,0.658,5,-7.299,1,0.0343,0.096,0.000911,0.205,0.293,150.093
+The Sound of Rock,1ynmMEK1fkyiZ6Z6F3ThEt,Centerfold,['The J. Geils Band'],Freeze Frame,1981-01-01,1981,216533,False,74,0.653,0.677,0,-12.244,1,0.0396,0.249,0.0,0.403,0.888,114.37
+The Sound of Rock,6i9dZZQWNB06HKsQYKTiPF,Hold On Loosely,['38 Special'],Wild-Eyed Southern Boys,1980-01-01,1980,280636,False,69,0.567,0.559,9,-10.175,1,0.0288,0.00888,0.00131,0.0764,0.898,127.227
+The Sound of Rock,6xxXrNJnnsQNLdgNk8S4y8,Hate To Say I Told You So,['The Hives'],Veni Vidi Vicious,2000-01-01,2000,199759,False,63,0.451,0.929,5,-5.021,1,0.0549,0.00109,0.00785,0.442,0.378,135.767
+The Sound of Rock,0qxYx4F3vm1AOnfux6dDxP,You Can Call Me Al,['Paul Simon'],Graceland (25th Anniversary Deluxe Edition),1986-08-12,1986,280000,False,77,0.776,0.763,5,-8.124,1,0.0534,0.182,0.00647,0.077,0.82,128.433
+The Sound of Rock,6Ca3uEAuun3HusTUiIXKs1,If You Wanna,['The Vaccines'],What Did You Expect from The Vaccines?,2011-03-14,2011,174013,False,66,0.353,0.866,2,-3.274,1,0.0392,3.03e-05,3e-05,0.295,0.544,165.215
+The Sound of Rock,0P7DoyGrr4Wp9w5TotEtUC,The Weight - Remastered 2000,['The Band'],Music From Big Pink (Remastered),1968-07-01,1968,274493,False,73,0.63,0.551,9,-9.28,1,0.0549,0.373,5.75e-05,0.103,0.518,143.868
+The Sound of Rock,0M955bMOoilikPXwKLYpoi,I Hate Everything About You,['Three Days Grace'],Three Days Grace,2003-04-19,2003,231480,False,79,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342
+The Sound of Rock,7uJLdyIAaYLGT0oLw7I6b3,New Fang,['Them Crooked Vultures'],Them Crooked Vultures,2009-11-17,2009,228639,False,62,0.278,0.961,7,-3.845,1,0.0607,7.36e-06,0.000662,0.0268,0.752,189.664
+The Sound of Rock,2Cdvbe2G4hZsnhNMKyGrie,I Love Rock 'N Roll,['Joan Jett & the Blackhearts'],I Love Rock 'N' Roll (Expanded Edition),1981-11-18,1981,175173,False,82,0.535,0.716,4,-5.025,1,0.0431,0.326,0.0,0.659,0.901,94.379
+The Sound of Rock,2VmyLy2HQlkevZYboXHM5O,If You Tolerate This Your Children Will Be Next,['Manic Street Preachers'],This Is My Truth Tell Me Yours,1998-09-14,1998,290960,False,61,0.267,0.81,0,-6.189,1,0.0418,0.00019,0.018,0.084,0.267,127.673
+The Sound of Rock,1fDFHXcykq4iw8Gg7s5hG9,About You,['The 1975'],Being Funny In A Foreign Language,2022-10-14,2022,326490,False,84,0.416,0.762,2,-7.385,1,0.0279,0.312,0.804,0.0559,0.461,95.967
+The Sound of Rock,436bx0eHJS5DPgIyfsDU31,Hold On,['Alabama Shakes'],Boys & Girls (Deluxe Edition),2022-12-09,2022,226186,False,64,0.575,0.666,5,-5.425,1,0.0301,0.206,0.341,0.0852,0.546,88.311
+The Sound of Rock,7ueP5u2qkdZbIPN2YA6LR0,Sail,['AWOLNATION'],Megalithic Symphony,2011-03-15,2011,259093,False,77,0.826,0.436,1,-9.583,1,0.0558,0.441,0.615,0.0964,0.272,119.051
+The Sound of Rock,5v4OkFH0TJ6W1hCFxyn0px,parents,['YUNGBLUD'],weird!,2020-12-04,2020,171880,True,71,0.612,0.824,7,-4.758,1,0.0478,0.013,0.0,0.288,0.586,82.017
+The Sound of Rock,45HAjqRWiNv6mMPw4NvZrU,Come Together,"['Gary Clark Jr.', 'Junkie XL']",Come Together,2017-09-08,2017,193714,False,63,0.447,0.788,2,-4.994,0,0.0464,0.00257,1.68e-05,0.0744,0.505,80.04
+The Sound of Rock,5qaEfEh1AtSdrdrByCP7qR,Demons,['Imagine Dragons'],Night Visions,2012-09-04,2012,177506,False,88,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.269,0.428,89.938
+The Sound of Rock,0AUyNF6iFxMNQsNx2nhtrw,Blood // Water,['grandson'],Blood // Water,2018-05-04,2018,216720,False,76,0.51,0.882,8,-5.659,0,0.159,0.00158,0.00206,0.0764,0.653,154.029
+The Sound of Rock,41Z2joQXOwZRBB8V6zk0A8,Fuck Forever,['Babyshambles'],Down In Albion,2005-11-14,2005,277000,True,50,0.327,0.905,11,-3.3,0,0.0611,0.0109,0.000379,0.292,0.437,113.137
+The Sound of Rock,0Owkb88GE9Zp1NQex6vpaj,That Dress - Demo,['The Pale White'],That Dress (Demo),2016-09-29,2016,188088,False,45,0.566,0.829,0,-4.714,1,0.0565,0.00492,0.00356,0.218,0.533,128.137
+The Sound of Rock,2oPzisApHGH3hbcu4C9UJS,Bobcaygeon,['The Tragically Hip'],Phantom Power,1998-01-01,1998,295357,False,58,0.391,0.755,7,-7.05,1,0.0416,0.182,0.58,0.174,0.42,170.333
+The Sound of Rock,78lgmZwycJ3nzsdgmPPGNx,Immigrant Song - Remaster,['Led Zeppelin'],Led Zeppelin III (Remaster),1970-01-01,1970,146250,False,82,0.564,0.932,11,-10.068,1,0.0554,0.013,0.169,0.349,0.619,112.937
+The Sound of Rock,3IOQZRcEkplCXg6LofKqE9,Iron Man - 2012 - Remaster,['Black Sabbath'],Paranoid (Remaster),1970-09-18,1970,355303,False,69,0.336,0.792,9,-10.875,1,0.084,0.00351,0.00175,0.0437,0.427,155.587
+The Sound of Rock,1Eolhana7nKHYpcYpdVcT5,Little Wing,['Jimi Hendrix'],Axis: Bold As Love,1967-12-01,1967,145746,False,75,0.515,0.534,6,-8.045,1,0.0768,0.181,0.00278,0.0547,0.426,70.776
+The Sound of Rock,7x8dCjCr0x6x2lXKujYD34,The Pretender,['Foo Fighters'],"Echoes, Silence, Patience & Grace",2007-09-25,2007,269373,False,82,0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984
+The Sound of Rock,0cKk8BKEi7zXbdrYdyqBP5,Behind Blue Eyes,['The Who'],Who's Next (Deluxe Edition),1971-08-14,1971,221426,False,73,0.394,0.622,4,-8.258,0,0.0336,0.213,4.45e-05,0.0892,0.342,126.844
+The Sound of Rock,6GtX0jaNL8IjVQfrDBx81z,Bullet With Butterfly Wings - Remastered 2012,['The Smashing Pumpkins'],Mellon Collie And The Infinite Sadness (Deluxe Edition),1995-01-01,1995,258466,False,77,0.404,0.72,10,-9.18,0,0.0623,5.59e-05,0.836,0.0466,0.475,121.864
+The Sound of Rock,05RgAMGypEvqhNs5hPCbMS,Panama - 2015 Remaster,['Van Halen'],1984 (Remastered),1984-01-04,1984,210226,False,77,0.526,0.978,8,-5.436,1,0.108,0.00122,4.75e-05,0.0744,0.451,141.167
+The Sound of Rock,14XWXWv5FoCbFzLksawpEe,Riders on the Storm,['The Doors'],L.A. Woman,1971-04-19,1971,434720,False,76,0.55,0.722,11,-11.729,0,0.0283,0.25,0.0129,0.11,0.716,103.886
+The Sound of Rock,5AEOqLsRJFAoSS4ay4Jzao,Come As You Are - Remastered,['Nirvana'],Nevermind (30th Anniversary Super Deluxe),1991-09-24,1991,218920,False,55,0.509,0.874,4,-4.7,0,0.0396,0.000229,0.00638,0.0988,0.406,120.082
+The Sound of Rock,6B4JGMaqe1LaEMlsVzNdNM,Fell On Black Days,['Soundgarden'],Superunknown,1994-01-01,1994,281800,False,45,0.389,0.641,4,-9.623,0,0.0328,0.00126,0.000943,0.18,0.546,203.015
+The Sound of Rock,7HKez549fwJQDzx3zLjHKC,Start Me Up - Remastered 2009,['The Rolling Stones'],Tattoo You (2009 Re-Mastered),1981-08-24,1981,213066,False,83,0.631,0.932,5,-4.142,1,0.0354,0.0436,0.137,0.0918,0.971,122.429
+The Sound of Rock,1L94M3KIu7QluZe63g64rv,Alive,['Pearl Jam'],Ten,1991-08-27,1991,340907,False,78,0.284,0.875,11,-6.069,0,0.0422,0.00752,0.000461,0.402,0.595,75.009
+The Sound of Rock,5sFDReWLrZHLFZFjHsjUTS,Would? (2022 Remaster),['Alice In Chains'],Dirt (2022 Remaster),1992-09-29,1992,206773,False,77,0.305,0.833,6,-7.981,1,0.0398,0.000327,2.36e-05,0.091,0.586,100.675
+The Sound of Rock,3jJZVeExYzVYiV6Y9Fl3DX,Plush,['Stone Temple Pilots'],Core,1992-09-29,1992,310346,False,69,0.423,0.954,7,-3.157,0,0.047,0.0021,0.0,0.177,0.5,144.553
+The Sound of Rock,5EWPGh7jbTNO2wakv8LjUI,Free Bird,['Lynyrd Skynyrd'],Pronounced' Leh-'Nerd 'Skin-'Nerd,1973-01-01,1973,547106,False,81,0.249,0.834,0,-8.21,1,0.0577,0.0738,9.48e-05,0.0924,0.338,118.223
+The Sound of Rock,0tZ3mElWcr74OOhKEiNz1x,Bulls On Parade,['Rage Against The Machine'],Evil Empire,1996-04-16,1996,229466,True,77,0.412,0.919,5,-7.291,1,0.184,0.0124,0.0601,0.424,0.572,166.367
+The Sound of Rock,4jU7NPkz4HVnM4hweqNhI1,Blue Orchid,['The White Stripes'],Get Behind Me Satan,2005-06-07,2005,157560,False,70,0.481,0.645,10,-8.535,0,0.318,0.0863,6.2e-06,0.332,0.612,151.307
+The Sound of Rock,0bRNszTbTFLNlunAeh7eom,Sharp Dressed Man (2008 Remaster),['ZZ Top'],Eliminator,1983-03-23,1983,258026,False,59,0.601,0.859,5,-5.264,1,0.0276,0.000359,0.00124,0.0871,0.446,125.144
+The Sound of Rock,5qlJg0Wbj3sslxfwiaRNpq,"I Don't Want To Miss A Thing - From ""Armageddon"" Soundtrack",['Aerosmith'],I Don't Want To Miss A Thing EP,1998-08-18,1998,299723,False,79,0.39,0.649,2,-5.163,1,0.0345,0.172,0.0,0.216,0.144,121.161
+The Sound of Rock,7Jh1bpe76CNTCgdgAdBw4Z,Heroes - 2017 Remaster,['David Bowie'],"""Heroes"" (2017 Remaster)",1977-01-01,1977,371413,False,78,0.489,0.758,7,-6.491,1,0.0297,0.000678,0.49,0.092,0.435,112.113
+The Sound of Rock,3EYOJ48Et32uATr9ZmLnAo,Roxanne,['The Police'],Outlandos D'Amour (Remastered 2003),1978-11-02,1978,191946,False,83,0.618,0.748,0,-8.905,1,0.358,0.0384,4.1e-06,0.0473,0.663,134.114
+The Sound of Rock,6mFkJmJqdDVQ1REhVfGgd1,Wish You Were Here,['Pink Floyd'],Wish You Were Here,1975-09-12,1975,334743,False,79,0.481,0.262,7,-15.73,1,0.0414,0.735,0.0114,0.832,0.375,122.861
+The Sound of Rock,7w6PJe5KBPyvuRYxFkPssC,No More Tears,['Ozzy Osbourne'],No More Tears (Expanded Edition),1991-09-17,1991,443240,False,76,0.346,0.749,6,-6.506,1,0.035,0.00167,8.86e-05,0.648,0.315,102.591
+The Sound of Rock,6PypGyiu0Y2lCDBN1XZEnP,Everybody Hurts,['R.E.M.'],Automatic For The People,1992-10-05,1992,320266,False,78,0.467,0.324,2,-10.451,1,0.0255,0.615,0.0248,0.118,0.166,94.301
+The Sound of Rock,3uMmllZo1AfoEnVT4ENCD3,Highway Star - Remastered 2012,['Deep Purple'],Machine Head (Remastered),1972-03-25,1972,366136,False,68,0.307,0.909,9,-7.08,0,0.0574,0.135,0.0336,0.125,0.443,173.674
+The Sound of Rock,3Xls4cNOwy01dtrNXb1inG,White Room,['Cream'],Wheels Of Fire,1968-07-01,1968,298333,False,73,0.553,0.576,0,-13.458,1,0.0304,0.191,0.00664,0.0365,0.457,109.827
+The Sound of Rock,21tuvt3CXIsNquc32v8jpc,Show Me How to Live,['Audioslave'],Audioslave,2002-01-01,2002,277840,False,46,0.433,0.854,9,-3.868,1,0.0483,0.000336,0.000177,0.162,0.368,89.4
+The Sound of Rock,5jzma6gCzYtKB1DbEwFZKH,London Calling - Remastered,['The Clash'],London Calling (Remastered),1979-01-01,1979,200480,False,75,0.651,0.801,0,-7.34,1,0.0514,0.123,0.0,0.0825,0.776,133.769
+The Sound of Rock,10nyNJ6zNy2YVYLrcwLccB,No Surprises,['Radiohead'],OK Computer,1997-05-28,1997,229120,False,86,0.255,0.393,5,-10.654,1,0.0278,0.0577,0.00361,0.113,0.118,76.426
+The Sound of Rock,0wzRcekWyVCSyPtlPOeJau,Go With The Flow,['Queens of the Stone Age'],Songs For The Deaf,2002-01-01,2002,187146,False,72,0.246,0.991,9,-3.903,1,0.087,0.00944,0.0753,0.867,0.415,159.39
+The Sound of Rock,7gSQv1OHpkIoAdUiRLdmI6,I Won't Back Down,['Tom Petty'],Full Moon Fever,1989-01-01,1989,178360,False,79,0.765,0.476,7,-13.487,1,0.0329,0.0504,2.76e-06,0.165,0.965,114.02
+The Sound of Rock,4IvZLDtwBHmBmwgDIUbuwa,Here Comes Your Man,['Pixies'],Doolittle,1989-04-17,1989,201186,False,74,0.669,0.795,2,-10.865,1,0.0285,0.00772,0.0781,0.401,0.882,124.594
+The Sound of Rock,5NoQvINZLBV1wMYPdNmReL,I Wanna Be Sedated,['Ramones'],Road to Ruin (40th Anniversary Deluxe Edition),1978-01-01,1978,149786,False,74,0.56,0.965,11,-2.341,1,0.0409,0.121,6.23e-06,0.169,0.964,162.825
+The Sound of Rock,0K6yUnIKNsFtfIpTgGtcHm,Limelight,['Rush'],Moving Pictures (2011 Remaster),1981-02-12,1981,259839,False,67,0.581,0.854,1,-8.485,0,0.0428,0.00197,0.0013,0.111,0.788,131.18
+The Sound of Rock,3fkPMWQ6cBNBLuFcPyMS8s,Burnin' for You,['Blue Öyster Cult'],Fire of Unknown Origin,1981-10-23,1981,271000,False,70,0.532,0.728,9,-9.079,0,0.0352,0.106,0.0108,0.0849,0.69,134.303
+The Sound of Rock,2J6rz3XZB9AMIGpNMcL8Oc,"Girls, Girls, Girls",['Mötley Crüe'],The Dirt Soundtrack,2000-01-01,2000,270413,False,52,0.597,0.902,7,-6.446,1,0.0614,0.0278,6.63e-05,0.418,0.536,140.118
+The Sound of Rock,48UPSzbZjgc449aqz8bxox,Californication,['Red Hot Chili Peppers'],Californication (Deluxe Edition),1999-06-08,1999,329733,False,86,0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483
+The Sound of Rock,4QlzkaRHtU8gAdwqjWmO8n,Friday I'm In Love,['The Cure'],Wish,1992-01-01,1992,215160,False,80,0.526,0.763,0,-12.663,0,0.0341,0.00126,6.75e-05,0.359,0.514,136.205
+The Sound of Rock,5CeL9C3bsoe4yzYS1Qz8cw,Girls & Boys,['Blur'],Blur: The Best Of,2000-10-23,2000,259385,False,71,0.693,0.875,7,-8.354,0,0.0315,0.00986,0.0,0.0601,0.899,120.048
+The Sound of Rock,57bgtoPSgt236HzfBOd8kj,Thunderstruck,['AC/DC'],The Razors Edge,1990-09-24,1990,292880,False,87,0.502,0.89,4,-5.175,1,0.0364,0.000147,0.0117,0.217,0.259,133.52
+The Sound of Rock,5Z8EDau8uNcP1E8JvmfkZe,School's Out,['Alice Cooper'],School's Out,1972-01-01,1972,210106,False,71,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364
+The Sound of Rock,4Tjs8b6jL1s18sjURJtswp,Lola (2020 Stereo Remaster),['The Kinks'],"Lola Versus Powerman and the Moneygoround, Pt. 1",1970-11-27,1970,241991,False,72,0.456,0.894,9,-4.602,1,0.037,0.458,0.485,0.0695,0.926,151.333
+The Sound of Rock,4Zc7TCHzuNwL0AFBlyLdyr,Run to the Hills - 2015 Remaster,['Iron Maiden'],The Number of the Beast (2015 Remaster),1982-01-01,1982,233506,False,73,0.249,0.943,0,-5.188,1,0.0669,0.0286,0.00401,0.162,0.458,173.671
+The Sound of Rock,4KfSdst7rW39C0sfhArdrz,Barracuda,['Heart'],Little Queen,1977-05-14,1977,261933,False,77,0.548,0.691,4,-13.553,0,0.0369,0.015,0.106,0.144,0.667,137.145
+The Sound of Rock,17S4XrLvF5jlGvGCJHgF51,Learning To Fly,['Tom Petty and the Heartbreakers'],Into The Great Wide Open,1991-01-01,1991,242106,False,74,0.651,0.766,0,-9.935,1,0.0299,0.206,0.00103,0.362,0.949,116.74
+The Sound of Rock,3L60Vu9qmY6fg2QroRIxgi,Cry Baby,['Janis Joplin'],Pearl (Legacy Edition),1971-01-11,1971,238600,False,65,0.474,0.418,0,-9.654,1,0.0299,0.514,0.000343,0.0535,0.504,83.308
+The Sound of Rock,1GqlvSEtMx5xbGptxOTTyk,Peace of Mind,['Boston'],Boston,1976-01-01,1976,303586,False,70,0.419,0.677,4,-6.183,1,0.0343,0.00101,9.99e-05,0.211,0.684,127.678
+The Sound of Rock,4TIJ7zSBNejpoIPaWpWRKc,Rebel Yell,['Billy Idol'],Rebel Yell,1983-11-01,1983,288533,False,79,0.53,0.864,4,-4.948,0,0.061,0.000753,0.000459,0.354,0.484,166.312
+The Sound of Rock,4XvvR8F6qOcnzgChO1uTIO,Overkill,['Motörhead'],Overkill (Expanded Edition),1979-03-24,1979,313520,False,62,0.27,0.886,11,-6.9,1,0.117,7.62e-06,0.0258,0.0899,0.19,119.283
+The Sound of Rock,2PFIZFcGry0po3ZfRZkzKc,Hysteria,['Def Leppard'],Hysteria,1987-08-03,1987,354636,False,73,0.659,0.846,7,-5.508,1,0.0274,0.0318,0.0144,0.203,0.659,107.01
+The Sound of Rock,0G21yYKMZoHa30cYVi1iA8,Welcome To The Jungle,"[""Guns N' Roses""]",Appetite For Destruction,1987-07-21,1987,273480,True,85,0.453,0.987,8,-4.485,1,0.0889,0.0195,0.283,0.268,0.316,123.544
+The Sound of Rock,0nLiqZ6A27jJri2VCalIUs,Nothing Else Matters,['Metallica'],Metallica,1991-08-12,1991,388266,False,83,0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-06,0.075,0.158,142.352
+The Sound of Rock,6KTv0Z8BmVqM7DPxbGzpVC,Rock And Roll All Nite,['KISS'],Dressed To Kill,1975-03-19,1975,168840,False,78,0.654,0.929,1,-5.906,1,0.0998,0.0468,0.0,0.0539,0.902,144.774
+The Sound of Rock,4c4jJJoaiY21t2TyRZgdWS,Magic Carpet Ride,['Steppenwolf'],The Second,1968-10-01,1968,271573,False,71,0.64,0.651,4,-14.981,0,0.0517,0.142,0.28,0.0341,0.801,111.676
+The Sound of Rock,3mwvKOyMmG77zZRunnxp9E,Buddy Holly,['Weezer'],Weezer,1994-05-10,1994,159226,False,80,0.556,0.92,8,-4.606,1,0.0367,0.00271,0.00021,0.117,0.771,121.138
+The Sound of Rock,6TfBA04WJ3X1d1wXhaCFVT,"You're Gonna Go Far, Kid",['The Offspring'],"Rise And Fall, Rage And Grace",2008-06-17,2008,177826,True,85,0.55,0.917,0,-3.159,1,0.0638,0.00428,0.0,0.197,0.601,126.115
+The Sound of Rock,4uGIJG1jYFonGc4LGp5uQL,Somebody to Love,['Jefferson Airplane'],Surrealistic Pillow,1967-01-01,1967,174840,False,72,0.504,0.578,4,-9.302,1,0.031,0.408,0.0,0.321,0.654,132.411
+The Sound of Rock,0snQkGI5qnAmohLE7jTsTn,Toxicity,['System Of A Down'],Toxicity,2001-09-04,2001,218933,False,84,0.413,0.873,8,-4.151,1,0.0536,0.000264,0.00249,0.204,0.48,116.68
+The Sound of Rock,4VqPOruhp5EdPBeR92t6lQ,Uprising,['Muse'],The Resistance,2009-09-10,2009,304840,False,79,0.602,0.905,2,-4.046,1,0.0775,0.000202,0.064,0.117,0.411,128.019
+The Sound of Rock,3IRvvlj2KpYoH76mLacnsp,Lust For Life,['Iggy Pop'],Lust For Life,1977-01-01,1977,313800,False,40,0.2,0.943,9,-8.217,1,0.0544,0.0125,0.0,0.139,0.778,203.243
+The Sound of Rock,6nTiIhLmQ3FWhvrGafw2zj,American Idiot,['Green Day'],American Idiot,2004-09-21,2004,176346,True,84,0.38,0.988,1,-2.042,1,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113
+The Sound of Rock,7vYA9ET5AUqJt5pBbhKmcB,Don't Let Me Be Misunderstood,['The Animals'],Animal Tracks,1965-09-01,1965,149360,False,66,0.513,0.775,11,-5.136,0,0.0284,0.0929,0.0,0.404,0.518,112.202
+The Sound of Rock,38Ngied9rBORlAbLYNCl4k,Once in a Lifetime - 2005 Remaster,['Talking Heads'],Remain in Light (Deluxe Version),1980-10-08,1980,259906,False,70,0.644,0.919,2,-6.289,1,0.0561,0.181,0.134,0.622,0.871,117.459
+The Sound of Rock,6Nd6ntkzr4t8o1FKPGOSMt,Here I Go Again - 2018 Remaster,['Whitesnake'],Whitesnake (2018 Remaster),1987-01-01,1987,275395,False,71,0.292,0.823,7,-6.763,1,0.0407,0.0117,7.79e-05,0.155,0.244,89.939
+The Sound of Rock,7kzKAuUzOITUauHAhoMoxA,Last Nite,['The Strokes'],Is This It,2001-07-30,2001,193506,False,78,0.624,0.91,0,-5.703,1,0.0297,0.0285,0.000198,0.0789,0.767,104.042
+The Sound of Rock,3BQHpFgAp4l80e1XslIjNI,Yesterday - Remastered 2009,['The Beatles'],Help! (Remastered),1965-08-06,1965,125666,False,81,0.332,0.179,5,-11.83,1,0.0326,0.879,0.0,0.0886,0.315,96.529
+The Sound of Rock,4BP3uh0hFLFRb5cjsgLqDh,Fortunate Son,['Creedence Clearwater Revival'],Willy And The Poor Boys (Expanded Edition),1969-11-02,1969,140773,False,88,0.64,0.663,0,-7.516,1,0.0374,0.201,0.00806,0.152,0.663,132.77
+The Sound of Rock,4alHo6RGd0D3OUbTPExTHN,Just What I Needed,['The Cars'],The Cars,1978-06-06,1978,225626,False,74,0.619,0.579,4,-9.307,1,0.0473,0.0152,6.4e-05,0.0858,0.69,127.224
+The Sound of Rock,3AhXZa8sUQht0UEdBJgpGc,Like a Rolling Stone,['Bob Dylan'],Highway 61 Revisited,1965-08-30,1965,369600,False,72,0.482,0.721,0,-6.839,1,0.0321,0.731,0.0,0.189,0.557,95.263
+The Sound of Rock,5lN1EH25gdiqT1SFALMAq1,Gold on the Ceiling,['The Black Keys'],El Camino,2011-12-06,2011,224333,False,78,0.505,0.833,0,-4.632,1,0.0475,0.00772,7.9e-05,0.069,0.565,130.121
+The Sound of Rock,1orVKbp6vqtfAPOmvRofVq,Rock'n Me,['Steve Miller Band'],Fly Like An Eagle,1976-01-01,1976,187066,False,74,0.695,0.582,4,-11.35,1,0.0651,0.297,0.0,0.123,0.892,122.433
+The Sound of Rock,2nekCvC9XRXQckWNnkIp2l,Harvest Moon,['Neil Young'],"Eat, Pray, Love",2010-01-01,2010,299106,False,69,0.645,0.321,2,-12.15,1,0.0263,0.521,0.000186,0.129,0.427,112.938
+The Sound of Rock,6PwjJ58I4t7Mae9xfZ9l9v,Somebody Told Me,['The Killers'],Hot Fuss,2004-01-01,2004,197200,False,84,0.497,0.97,10,-4.851,0,0.0836,9.04e-05,0.000674,0.101,0.689,138.081
+The Sound of Rock,0UvCh63URrLFcPkKt99hHd,Don't Look Back in Anger - Remastered,['Oasis'],(What's The Story) Morning Glory? [Remastered],1995-10-02,1995,289560,False,76,0.327,0.938,0,-3.237,1,0.0645,0.0708,3.79e-06,0.148,0.326,162.937
+The Sound of Rock,4DMKwE2E2iYDKY01C335Uw,Carry on Wayward Son,['Kansas'],Leftoverture (Expanded Edition),1976-01-01,1976,323000,False,78,0.482,0.786,7,-5.735,1,0.032,0.00321,8.88e-05,0.446,0.793,126.755
+The Sound of Rock,1JkZg3eMQTmTn93E8Yd3UL,I Want You to Want Me,['Cheap Trick'],In Color,1977-09-01,1977,191226,False,70,0.806,0.462,2,-12.778,1,0.0298,0.78,0.0134,0.15,0.736,92.726
+The Sound of Rock,0L7zm6afBEtrNKo6C6Gj08,Painkiller,['Judas Priest'],Painkiller,1990-09-26,1990,365826,False,70,0.435,0.987,1,-4.667,0,0.16,0.000195,0.0847,0.268,0.101,103.16
+The Sound of Rock,2mHchPRtQWet3iIS3jANr1,God Save The Queen,['Sex Pistols'],"Never Mind The Bollocks, Here’s The Sex Pistols",1977-10-27,1977,199453,False,63,0.304,0.901,9,-7.756,1,0.0602,0.00105,0.000376,0.158,0.541,147.199
+The Sound of Rock,5fbQCQt91LsVgXusFS0CCD,Disorder - 2007 Remaster,['Joy Division'],Unknown Pleasures (Collector's Edition),1979-06-01,1979,209039,False,71,0.32,0.798,10,-7.078,0,0.124,0.00033,0.692,0.176,0.74,84.696
+The Sound of Rock,2OgVsp77En2nju8pnCieVU,Waiting for a Girl like You,['Foreigner'],4 (Expanded),1981-01-01,1981,292066,False,75,0.33,0.469,10,-9.286,0,0.0335,0.31,2.3e-06,0.0402,0.433,201.327
+The Sound of Rock,11607FzqoipskTsXrwEHnJ,Sunday Morning,"['The Velvet Underground', 'Nico']",The Velvet Underground & Nico 45th Anniversary,1967-03-12,1967,175893,False,69,0.506,0.442,5,-13.268,0,0.0276,0.0869,0.00239,0.0846,0.532,105.826
+The Sound of Rock,4LJhJ6DQS7NwE7UKtvcM52,What's My Age Again?,['blink-182'],Enema Of The State,1999-06-01,1999,148360,True,82,0.391,0.951,6,-7.419,1,0.0692,0.0126,0.000378,0.0878,0.468,157.66
+The Sound of Rock,480dDrqG7LO6qDaphHeXlM,Invisible Touch - Remastered 2007,['Genesis'],Invisible Touch,1986-06-09,1986,210133,False,73,0.623,0.94,0,-5.731,1,0.0365,0.202,0.00184,0.0472,0.837,131.037
+The Sound of Rock,46gSk82duJtX3TTA182ruG,This fffire - New Version,['Franz Ferdinand'],This fffire,2004-11-15,2004,218080,False,69,0.442,0.887,4,-5.943,0,0.1,0.0259,4.57e-06,0.0655,0.637,146.358
+The Sound of Rock,254bXAqt3zP6P50BdQvEsq,Everywhere - 2017 Remaster,['Fleetwood Mac'],Tango In the Night (Deluxe Edition),1987-04-13,1987,226653,False,84,0.73,0.487,4,-10.991,1,0.0303,0.258,0.01,0.0852,0.731,114.965
+The Sound of Rock,2udGjDmpK1dH9VGyw7nrei,Cocaine,['Eric Clapton'],Slowhand 35th Anniversary,1977-11-01,1977,221640,False,72,0.699,0.502,9,-12.526,1,0.0278,0.0607,0.0337,0.317,0.676,105.267
+The Sound of Rock,5LyRtsQLhcXmy50VXhQXXS,Holy Wars...The Punishment Due - 2004 Remix,['Megadeth'],Rust In Peace (2004 Remix / Expanded Edition),1990-10-04,1990,392600,False,71,0.325,0.985,11,-3.941,1,0.151,0.00177,0.107,0.351,0.221,125.307
+The Sound of Rock,0GGxVTb0UwDwdaKNjBdCn3,Woman - Remastered 2010,['John Lennon'],Double Fantasy: Stripped Down,1980-11-17,1980,212933,False,74,0.588,0.656,3,-6.373,1,0.0224,0.378,0.00227,0.042,0.746,79.701
+The Sound of Rock,51Gkc1TxvyQ9K8y0pQRmQM,Been Caught Stealing,"[""Jane's Addiction""]",Ritual De Lo Habitual,1990-01-01,1990,213293,False,56,0.683,0.9,7,-7.506,1,0.105,0.0146,0.0706,0.296,0.616,103.625
+The Sound of Rock,2SgbR6ttzoNlCRGQOKjrop,Cowboys from Hell,['Pantera'],Cowboys from Hell,1990-07-20,1990,243533,True,75,0.415,0.908,2,-9.701,1,0.0765,0.00437,0.0345,0.082,0.437,114.816
+The Sound of Rock,0wz1LjDb9ZNEYwOmDJ3Q4b,Surfin' U.S.A. - Remastered 2001,['The Beach Boys'],Surfin' USA (Remastered),1963-03-25,1963,149373,False,75,0.55,0.854,3,-5.968,1,0.036,0.661,0.0,0.112,0.965,159.231
+The Sound of Rock,6BmzbaB08O0FjHXeS0cR5b,Dancing In The Moonlight (It's Caught Me In It's Spotlight),['Thin Lizzy'],Bad Reputation (Expanded Edition),1977-01-01,1977,204653,False,64,0.671,0.461,4,-13.874,0,0.13,0.00755,0.0,0.103,0.784,145.187
+The Sound of Rock,4Y3WqmBWmG23thvU9xEhMv,Easy,['Faith No More'],Angel Dust (Deluxe Edition),1992-01-01,1992,186960,False,67,0.506,0.554,10,-6.743,0,0.0339,0.339,0.000355,0.112,0.375,124.724
+The Sound of Rock,4wswaG5vmNINMZcVBsAyBP,Got My Mind Set on You,['George Harrison'],Cloud Nine,1987-11-02,1987,234653,False,77,0.759,0.85,4,-7.156,1,0.0418,0.456,1.72e-06,0.488,0.963,149.211
+The Sound of Rock,3o7TMr6RmIusYH7Kkg7ujR,Coming Undone,['Korn'],See You On the Other Side,2005-12-06,2005,199773,False,79,0.687,0.677,2,-4.172,1,0.0508,0.000643,0.000137,0.0564,0.545,75.052
+The Sound of Rock,5VGlqQANWDKJFl0MBG3sg2,Use Somebody,['Kings of Leon'],Only By The Night,2008-09-23,2008,230760,False,81,0.276,0.715,0,-5.356,1,0.0432,0.00552,0.000417,0.201,0.173,137.028
+The Sound of Rock,58XWGx7KNNkKneHdprcprX,Rock You Like A Hurricane,['Scorpions'],Love At First Sting,1984-03-27,1984,252493,False,75,0.482,0.617,4,-12.931,0,0.0458,0.00543,0.000146,0.284,0.718,125.697
+The Sound of Rock,70Z9t1qhytWtG4cCmmi7mU,I Wanna Rock,['Twisted Sister'],Stay Hungry,1984-05-10,1984,179760,False,74,0.504,0.911,2,-2.97,1,0.0738,0.00512,0.0123,0.355,0.671,106.244
+The Sound of Rock,0YveezON7jpiaHA8fnUHxN,Roundabout - 2003 Remaster,['Yes'],Fragile (Deluxe Edition),1971-11-26,1971,510573,False,64,0.41,0.761,4,-9.453,0,0.0687,0.0685,0.00772,0.0758,0.392,132.923
+The Sound of Rock,0cMyMeOTBeweBZRfP6MJ6e,Patience,['Chris Cornell'],No One Sings Like You Anymore,2020-12-11,2020,253120,False,58,0.597,0.646,6,-7.378,0,0.0346,0.277,0.0,0.111,0.362,126.958
+The Sound of Rock,36vTL8WP4ZoD1bbUaW0V3E,Bad Company - 2015 Remaster,['Bad Company'],Bad Company (Deluxe),1974-01-01,1974,288053,False,67,0.545,0.467,8,-10.862,1,0.0305,0.491,0.175,0.0805,0.444,113.713
+The Sound of Rock,6KtLECDztnah63TNmV4Plw,Wish You Were Here,['Incubus'],Morning View,2001-10-23,2001,212733,False,74,0.246,0.768,9,-7.48,1,0.0387,0.000631,0.301,0.102,0.35,169.873
+The Sound of Rock,5ugzDiilhy6ILKmKfhEzd7,The Hand That Feeds,['Nine Inch Nails'],With Teeth,2005-05-03,2005,211680,False,68,0.587,0.99,0,-4.496,1,0.0783,0.0172,0.000668,0.104,0.486,127.992
+The Sound of Rock,1QaJWSCk3UMKLotnPCIHh1,Brass in Pocket - 2006 Remaster,['Pretenders'],Pretenders,1980-01-11,1980,185960,False,65,0.751,0.703,9,-5.687,1,0.0287,0.368,0.00123,0.196,0.907,97.931
+The Sound of Rock,7tCHpjktA50ihtkLz6bAnn,Ain't No Rest For The Wicked - Original Version,['Cage The Elephant'],Cage The Elephant,2008-01-01,2008,175493,False,72,0.635,0.914,0,-5.631,1,0.111,0.0597,0.0,0.601,0.922,156.014
+The Sound of Rock,6wpGqhRvJGNNXwWlPmkMyO,I Still Haven't Found What I'm Looking For,['U2'],The Joshua Tree (Super Deluxe),1987-03-03,1987,277476,False,82,0.564,0.774,1,-9.424,1,0.0368,0.0135,0.00191,0.0861,0.657,100.894
+The Sound of Rock,2V8KvnD5LVeeDChMWEkSzC,Nothin' But A Good Time - Remastered 2006,['Poison'],Open Up And Say...Ahh! (20th Anniversary Edition),1988-03-21,1988,224866,False,72,0.576,0.974,1,-2.785,1,0.0828,0.0202,0.0,0.348,0.531,129.088
+The Sound of Rock,0nFZ2HQRnIxiwraCm2X6Uq,Mary Had a Little Lamb,['Stevie Ray Vaughan'],Texas Flood (Legacy Edition),1983-01-01,1983,166960,False,63,0.678,0.493,8,-13.782,1,0.0302,0.0882,0.153,0.264,0.914,122.627
+The Sound of Rock,2mxPSHEwjJWOQS7lGw6btF,Lucky Man,['The Verve'],Urban Hymns (Deluxe / Remastered 2016),1997-09-29,1997,293586,False,70,0.407,0.663,2,-7.591,1,0.0305,0.255,0.000166,0.0913,0.211,75.989
+The Sound of Rock,0gEyKnHvgkrkBM6fbeHdwK,Linger,['The Cranberries'],"Everybody Else Is Doing It, So Why Can't We?",1993-03-01,1993,274706,False,86,0.439,0.434,7,-14.918,1,0.0265,0.0783,4.87e-05,0.14,0.204,94.845
+The Sound of Rock,6ogKP4wNMTCGvm31vesZpU,A Feast of Friends - 2022 Remastered Version,['Jim Morrison'],Eternal,2022-10-19,2022,130000,False,50,0.394,0.415,0,-8.056,0,0.0308,0.668,0.13,0.181,0.35,71.534
+The Sound of Rock,0wokCRaKD0zPNhMRXAgVsr,Ordinary World,['Duran Duran'],Duran Duran,1993-02-15,1993,340200,False,77,0.472,0.652,1,-10.171,0,0.0305,0.0131,1.12e-05,0.14,0.401,140.124
+The Sound of Rock,2amzrvbxYiq8AxGntIiw5V,Fall to Pieces,['Velvet Revolver'],Contraband,2004-01-01,2004,271240,False,63,0.464,0.887,6,-4.65,1,0.0499,0.000429,0.333,0.126,0.23,132.759
+The Sound of Rock,5W7YROOF6bFfBexY81LFjt,Babe,['Styx'],Cornerstone,1979-01-01,1979,265973,False,68,0.267,0.204,2,-13.714,1,0.0317,0.527,0.0,0.0924,0.0903,169.486
+The Sound of Rock,5qFxuUIAwJlzO60vqOiL7y,Rainbow In The Dark,['Dio'],Holy Diver,1983-01-01,1983,252693,False,68,0.508,0.912,9,-8.049,0,0.0368,7.06e-05,0.403,0.0492,0.682,117.582
+The Sound of Rock,4TOMI010Sd4ZAX4aZ5TS85,Perfect Day,['Lou Reed'],Transformer,1972-12-01,1972,225000,False,71,0.4,0.267,10,-12.488,1,0.0323,0.744,0.00734,0.103,0.0872,144.799
+The Sound of Rock,4yugZvBYaoREkJKtbG08Qr,Take It Easy - 2013 Remaster,['Eagles'],Eagles (2013 Remaster),1972-06-01,1972,211577,False,82,0.575,0.67,7,-10.39,1,0.0318,0.343,4.95e-06,0.129,0.74,139.191
+The Sound of Rock,71SvEDmsOwIWw1IozsZoMA,Any Way You Want It,['Journey'],Departure,1980-01-01,1980,201693,False,76,0.529,0.932,7,-7.501,1,0.0488,0.00251,0.00109,0.136,0.571,138.158
+The Sound of Rock,5NK8jad728pj6YeqM5VJD4,She Talks To Angels,['The Black Crowes'],Shake Your Money Maker,1990-02-13,1990,329400,False,68,0.584,0.521,4,-5.782,1,0.0295,0.06,7.56e-05,0.22,0.317,160.058
+The Sound of Rock,1db0gbTSKdRQum8VlbNkiO,Say Say Say - Remastered 2015,"['Paul McCartney', 'Michael Jackson']",Pipes Of Peace,1983-10-28,1983,235693,False,69,0.822,0.686,10,-10.456,0,0.0472,0.115,0.000982,0.0463,0.828,117.743
+The Sound of Rock,5NLuC70kZQv8q34QyQa1DP,Fight For Your Right,['Beastie Boys'],Licensed To Ill,1986-11-15,1986,208653,False,73,0.503,0.858,8,-6.296,1,0.0657,0.00757,0.00234,0.0803,0.419,133.615
+The Sound of Rock,4u7EnebtmKWzUH433cf5Qv,Bohemian Rhapsody - Remastered 2011,['Queen'],A Night At The Opera (2011 Remaster),1975-11-21,1975,354320,False,84,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105
+The Sound of Rock,3IV4swNduIRunHREK80owz,Rollin' (Air Raid Vehicle),['Limp Bizkit'],Chocolate Starfish And The Hot Dog Flavored Water,2000-10-17,2000,213760,True,81,0.603,0.933,1,-3.358,1,0.171,0.00591,0.0,0.206,0.709,96.306
+The Sound of Rock,6FT83pFXKhDlXDsNJFAHWz,You Never Can Tell,['Chuck Berry'],St. Louis To Liverpool,1964-11-01,1964,161906,False,77,0.525,0.852,7,-9.519,1,0.222,0.731,5.11e-05,0.218,0.884,157.404
+The Sound of Rock,7y4CK8bbzxpyKu73WOvgHJ,Ramblin' Man,['Allman Brothers Band'],Brothers And Sisters (Super Deluxe),2013-06-25,2013,288160,False,66,0.305,0.824,1,-8.33,1,0.0354,0.51,0.00292,0.272,0.921,179.404
+The Sound of Rock,0MYNeFsKpzBHwrJGfWZysV,Locomotive Breath,['Jethro Tull'],Aqualung (Special Edition),1971-03-19,1971,266013,False,61,0.68,0.53,11,-13.105,0,0.0889,0.417,0.011,0.0559,0.352,124.551
+The Sound of Rock,5ohfpKB5tt275f4Y4lQ9F7,Angel Of Death,['Slayer'],Reign In Blood (Expanded),1986-01-01,1986,291773,False,64,0.326,0.995,1,-4.38,1,0.147,9.41e-05,0.386,0.145,0.092,105.459
+The Sound of Rock,6mHOcVtsHLMuesJkswc0GZ,The Logical Song - Remastered 2010,['Supertramp'],Breakfast In America (Deluxe Edition),1979-03-29,1979,251253,False,78,0.625,0.758,5,-6.213,0,0.0463,0.512,0.00022,0.153,0.695,119.719
+The Sound of Rock,1wrhhPzd2ncJPNgUcGgBGg,Machinehead - Remastered,['Bush'],Sixteen Stone (Remastered),1994-12-06,1994,256333,False,61,0.142,0.92,9,-4.426,1,0.115,2.65e-05,0.00518,0.126,0.193,171.763
+The Sound of Rock,5lwQGZYF4BXOzFtXc5zk8q,"Head Over Heels - Dave Bascombe 7"" N.Mix","['Tears For Fears', 'Dave Bascombe']",Songs From The Big Chair (Deluxe),1985-02-25,1985,257315,False,74,0.623,0.739,7,-8.116,1,0.0244,0.338,1.88e-05,0.109,0.642,95.007
+The Sound of Rock,4aVuWgvD0X63hcOCnZtNFA,Hold the Line,['TOTO'],Toto,1978-10-10,1978,235546,False,84,0.473,0.898,6,-4.797,0,0.0561,0.00783,0.0618,0.173,0.808,96.556
+The Sound of Rock,1GjbTNFImFrjFsNdleDe78,Never Tear Us Apart,['INXS'],Kick (Remastered 2011),1987-01-01,1987,184586,False,77,0.664,0.613,0,-7.56,1,0.0273,0.00309,0.000128,0.175,0.193,96.6
+The Sound of Rock,665Jxlgi1HamPKbW1vwzx4,We Belong,['Pat Benatar'],Tropico,1984-01-01,1984,221133,False,71,0.706,0.322,5,-14.108,1,0.0467,0.528,2.37e-06,0.576,0.305,135.154
+The Sound of Rock,6LUGvXEAK8WxIBYK43uoTb,Back to the Old House - 2011 Remaster,['The Smiths'],Louder Than Bombs,1987-01-01,1987,186626,False,82,0.626,0.488,2,-7.805,1,0.0253,0.0102,0.000188,0.141,0.404,104.13
+The Sound of Rock,44RW9FEY76mLQCRQUjT0Zt,Change,['Blind Melon'],Blind Melon,1992-01-01,1992,221866,False,62,0.433,0.46,2,-10.441,1,0.0343,0.606,4.36e-05,0.175,0.536,77.525
+The Sound of Rock,3CtphwpjC0XjIVpLFvGiQR,Hunger Strike - 25th Anniversary Mix,['Temple Of The Dog'],Temple Of The Dog (Deluxe Edition),2016-04-16,2016,246266,False,63,0.384,0.735,7,-6.522,1,0.0317,0.0252,2.76e-05,0.114,0.312,137.834
+The Sound of Rock,2iWfZFAF8BCi0CY4NyuP8D,Gamma Ray,['Beck'],Modern Guilt,2008-07-08,2008,176920,False,65,0.603,0.909,11,-4.213,0,0.0385,0.109,0.249,0.329,0.7,168.116
+The Sound of Rock,1OxcIUqVmVYxT6427tbhDW,Fly Away,['Lenny Kravitz'],5,1998-05-12,1998,221332,False,77,0.587,0.872,7,-5.066,1,0.0484,0.018,0.0,0.622,0.735,159.925
+The Sound of Rock,72ahyckBJfTigJCFCviVN7,Don't Bring Me Down,['Electric Light Orchestra'],Discovery,1979-05-31,1979,243373,False,77,0.638,0.867,2,-6.469,1,0.0331,0.144,0.000733,0.0846,0.805,115.692
+The Sound of Rock,7yMiX7n9SBvadzox8T5jzT,Clint Eastwood,['Gorillaz'],Gorillaz,2001-01-01,2001,340920,True,73,0.663,0.694,10,-8.627,0,0.171,0.0253,0.0,0.0698,0.525,167.953
+The Sound of Rock,5hrsqusQlSqlWpvtjJpxPq,29 Palms - 2006 Remaster,['Robert Plant'],Fate of Nations,1993-05-25,1993,291906,False,58,0.657,0.658,7,-8.187,1,0.0258,0.0882,0.000131,0.136,0.827,116.817
+The Sound of Rock,6UBjSnyP1O5W5ndJoO9vUk,Night Moves,['Bob Seger'],Night Moves,1976-10-22,1976,324422,False,75,0.705,0.743,1,-6.631,1,0.042,0.432,0.0133,0.103,0.374,118.552
+The Sound of Rock,5wQnmLuC1W7ATsArWACrgW,Welcome to the Black Parade,['My Chemical Romance'],The Black Parade,2006-10-23,2006,311106,False,81,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95
+The Sound of Rock,28clONjZmul6FjfO6tZQDE,Metal Health (Bang Your Head),['Quiet Riot'],Metal Health,1983-01-01,1983,316866,False,64,0.494,0.933,2,-5.977,1,0.0808,0.0434,0.00108,0.228,0.507,121.201
+The Sound of Rock,3RAFcUBrCNaboRXoP3S5t1,Psychosocial,['Slipknot'],All Hope Is Gone (10th Anniversary),2008-08-20,2008,284120,False,79,0.568,0.981,2,-3.889,1,0.0887,0.00269,0.00275,0.0243,0.307,135.146
+The Sound of Rock,1xqVri47rxr9oRpUgJa8rf,I Remember You,['Skid Row'],Skid Row,1989-01-24,1989,313693,False,52,0.482,0.528,0,-12.708,1,0.0267,0.00658,7.22e-06,0.14,0.489,88.156
+The Sound of Rock,0rmGAIH9LNJewFw7nKzZnc,You Give Love A Bad Name,['Bon Jovi'],Slippery When Wet,1986-08-16,1986,222706,False,86,0.541,0.96,0,-2.947,0,0.0505,0.0663,2.25e-06,0.344,0.812,122.803
+The Sound of Rock,5WwqdeavrQrbeAMDxGawse,Can't Fight This Feeling,['REO Speedwagon'],Wheels Are Turnin',1984-11-05,1984,294773,False,76,0.408,0.48,9,-11.017,1,0.0266,0.155,1.82e-05,0.0877,0.19,156.344
+The Sound of Rock,6nxlHmpBJYicXHC0mvcKOm,Cat Scratch Fever,['Ted Nugent'],Cat Scratch Fever,1977-02-26,1977,219400,False,48,0.549,0.916,4,-4.185,0,0.034,0.0049,0.123,0.104,0.632,127.131
+The Sound of Rock,58ge6dfP91o9oXMzq3XkIS,505,['Arctic Monkeys'],Favourite Worst Nightmare (Standard Version),2007-04-24,2007,253586,False,82,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267
+The Sound of Rock,3D0bXrSv7O73vOaGOG8J9c,Sweet Dreams (Are Made Of This),['Marilyn Manson'],Smells Like Children,1995-01-01,1995,293293,False,68,0.222,0.664,0,-5.242,0,0.0379,0.0039,0.65,0.239,0.101,186.044
+The Sound of Rock,51xBgzcyzojRpqFW2ICQAB,No Cars Go,['Arcade Fire'],Neon Bible,2007-01-01,2007,343626,False,67,0.324,0.772,1,-6.95,1,0.0371,0.000609,0.173,0.12,0.291,135.737
+The Sound of Rock,24ffbrdPfiSHK1SqvIX7DT,Ring of Fire - Single Version,['Johnny Cash'],Hello I'm Johnny Cash,1970-01-01,1970,156066,False,33,0.658,0.453,7,-11.493,1,0.0309,0.808,0.000171,0.356,0.658,103.544
+The Sound of Rock,2Y0iGXY6m6immVb2ktbseM,Little Dark Age,['MGMT'],Little Dark Age,2018-02-09,2018,299960,False,82,0.705,0.712,6,-6.156,1,0.0385,0.0102,0.000855,0.1,0.62,97.512
+The Sound of Rock,4U45aEWtQhrm8A5mxPaFZ7,Vienna,['Billy Joel'],The Stranger (Legacy Edition),1977-01-01,1977,214240,False,83,0.532,0.495,10,-6.662,1,0.0343,0.659,0.0,0.0754,0.308,124.936
+The Sound of Rock,4I3573QbRpER4HPzyFSFJa,Salute Your Solution,['The Raconteurs'],Consolers of the Lonely,2008-03-25,2008,179973,False,61,0.266,0.946,9,-2.855,1,0.171,0.00781,2.73e-06,0.26,0.498,168.465
+The Sound of Rock,4nXkbcTj3nyww1cHkw5RAP,Long Train Runnin',['The Doobie Brothers'],The Captain and Me,1973-01-01,1973,207266,False,75,0.575,0.912,7,-7.275,0,0.0393,0.0916,0.00211,0.0562,0.843,117.399
+The Sound of Rock,1ksayCHVLH4eKFm43GFokU,"Baby, I Love Your Way - Live",['Peter Frampton'],Frampton Comes Alive! (Deluxe Edition),1976-01-01,1976,281066,False,62,0.518,0.786,7,-5.739,1,0.0357,0.448,2.5e-05,0.7,0.463,72.269
+The Sound of Rock,1158ckiB5S4cpsdYHDB9IF,My Own Summer (Shove It),['Deftones'],Around the Fur,1997-10-27,1997,214760,False,82,0.443,0.781,1,-4.277,1,0.0377,1.33e-05,0.205,0.166,0.372,71.841
+The Sound of Rock,67eX1ovaHyVPUinMHeUtIM,Hurts So Good,['John Mellencamp'],American Fool,1982-01-01,1982,218960,False,74,0.785,0.737,9,-5.306,1,0.0363,0.042,0.000107,0.108,0.971,125.447
+The Sound of Rock,6HMFtoMvv6n6Q2eOyPFyne,Walk Of Life,['Dire Straits'],Brothers In Arms - 20th Anniversary Edition,1985-05-13,1985,248893,False,78,0.437,0.965,4,-4.448,1,0.136,0.326,0.00028,0.144,0.766,172.428
+The Sound of Rock,1lATXTBJDHwawvT1UfxWu3,The Pot,['TOOL'],"10,000 Days",2006-04-28,2006,381946,True,72,0.469,0.79,7,-6.889,1,0.0391,0.000148,0.372,0.282,0.466,107.45
+The Sound of Rock,2pcwmk8c1pTYwX0COSVX52,Woman,['Wolfmother'],Wolfmother,2005-01-01,2005,175666,False,60,0.191,0.948,9,-3.496,0,0.217,2.78e-05,0.0864,0.0945,0.215,150.753
+The Sound of Rock,1UREw2MCfU0xwBzCAjxlUD,Scars,['Papa Roach'],Getting Away With Murder,2004-01-01,2004,208186,False,72,0.384,0.921,11,-3.334,1,0.055,0.0948,0.0,0.168,0.471,89.922
+The Sound of Rock,3PzsbWSQdLCKDLxn7YZfkM,I'm On Fire,['Bruce Springsteen'],Born In The U.S.A.,1984-06-04,1984,155880,False,80,0.62,0.446,1,-14.451,0,0.0347,0.589,0.0299,0.0727,0.868,88.591
+The Sound of Rock,1ZozGivTAYsOwhy6LVHsPX,Kool Thing,['Sonic Youth'],Goo,1990-01-01,1990,246333,False,62,0.262,0.82,7,-11.621,1,0.0428,0.0103,0.0914,0.101,0.254,155.197
+The Sound of Rock,0rme3FLbw5o1KLXpJzivjS,Rock Lobster,"[""The B-52's""]",B-52's,1979-01-01,1979,412032,False,56,0.603,0.814,8,-11.51,1,0.048,0.0462,0.0265,0.0509,0.486,92.24
+The Sound of Rock,29HaKOpeLSYvqdFyEQSRdj,Teach Your Children,"['Crosby, Stills, Nash & Young']",Deja Vu,1970-03-11,1970,173466,False,66,0.497,0.285,2,-14.537,1,0.0264,0.643,1.69e-05,0.389,0.667,154.707
+The Sound of Rock,3T76zPJz3tWL27FrjJe2ot,Lazaretto,['Jack White'],Lazaretto,2014-06-10,2014,219400,False,57,0.381,0.838,6,-6.562,0,0.0709,0.0046,3.77e-05,0.101,0.581,118.214
+The Sound of Rock,648BMGrt98kUbLo24A4vgj,Hip To Be Square,['Huey Lewis & The News'],Fore!,1986-01-01,1986,245466,False,66,0.668,0.779,9,-11.089,1,0.0325,0.0025,0.000347,0.139,0.963,140.873
+The Sound of Rock,3qT4bUD1MaWpGrTwcvguhb,Black Dog - Remaster,['Led Zeppelin'],Led Zeppelin IV (Deluxe Edition),1971-11-08,1971,295386,False,75,0.437,0.864,4,-7.842,0,0.0904,0.396,0.0314,0.242,0.749,81.394
+The Sound of Rock,2rd9ETlulTbz6BYZcdvIE1,War Pigs / Luke's Wall - 2012 - Remaster,['Black Sabbath'],Paranoid (Remaster),1970-09-18,1970,474359,False,68,0.332,0.623,9,-12.363,1,0.08,0.222,0.000895,0.278,0.413,183.097
+The Sound of Rock,0wJoRiX5K5BxlqZTolB2LD,Purple Haze,['Jimi Hendrix'],Are You Experienced,1967-05-12,1967,170813,False,74,0.533,0.905,2,-5.27,1,0.0754,0.00876,0.578,0.0698,0.486,108.9
+The Sound of Rock,5OQsiBsky2k2kDKy2bX2eT,Learn to Fly,['Foo Fighters'],There Is Nothing Left To Lose,1999-11-02,1999,235293,False,80,0.465,0.919,4,-4.025,1,0.0408,1.83e-05,2.07e-05,0.262,0.537,135.997
+The Sound of Rock,6LbbHFEajG9e4m0G3L47c4,Pinball Wizard,['The Who'],Tommy,1969-05-23,1969,180943,False,70,0.543,0.715,2,-8.89,1,0.0356,0.0192,0.0,0.256,0.468,124.011
+The Sound of Rock,6ToM0uwxtPKo9CMpbPGYvM,Break on Through (To the Other Side),['The Doors'],The Doors,1967-01-04,1967,145866,False,76,0.421,0.751,9,-9.584,1,0.0472,0.2,0.0,0.17,0.789,89.839
+The Sound of Rock,3czHCIPtkuw2TFk1SOOQkC,Spoonman,['Soundgarden'],Superunknown,1994-01-01,1994,246373,False,45,0.268,0.794,0,-11.034,1,0.0341,2.85e-05,0.075,0.229,0.903,182.921
+The Sound of Rock,6YIggUJW3ttAAPRdnki8RM,Disarm - 2011 Remaster,['The Smashing Pumpkins'],Siamese Dream (Deluxe Edition),1993-01-01,1993,196905,False,71,0.527,0.418,4,-10.205,0,0.0277,0.142,0.775,0.139,0.218,129.516
+The Sound of Rock,2PzU4IB8Dr6mxV3lHuaG34,(I Can't Get No) Satisfaction - Mono Version,['The Rolling Stones'],Out Of Our Heads,1965-07-30,1965,222813,False,81,0.723,0.863,2,-7.89,1,0.0338,0.0383,0.0317,0.128,0.931,136.302
+The Sound of Rock,5Xak5fmy089t0FYmh3VJiY,Black,['Pearl Jam'],Ten,1991-08-27,1991,342653,False,77,0.36,0.684,4,-6.457,0,0.0308,0.323,0.0,0.34,0.2,77.15
+The Sound of Rock,0upLyFR8Rr52ZpMp5esQoq,You Really Got Me - 2015 Remaster,['Van Halen'],Van Halen (Remastered),1978-02-10,1978,156146,False,73,0.454,0.946,1,-5.978,0,0.13,0.0223,0.0,0.173,0.647,138.18
+The Sound of Rock,2SHTKB8YYlawTGIuJ2b2ok,About A Girl,['Nirvana'],Bleach,1989-06-01,1989,168428,False,82,0.413,0.875,6,-7.48,0,0.031,5.13e-06,0.00058,0.209,0.575,131.951
+The Sound of Rock,13lZDbwonGhOflQLQIfdtZ,We're Going to Be Friends,['The White Stripes'],White Blood Cells,2001-07-03,2001,140178,False,70,0.534,0.441,7,-5.752,1,0.0303,0.661,0.0,0.0934,0.439,97.009
+The Sound of Rock,2JuasWPUodaUxf5nwNpciQ,Nutshell,['Alice In Chains'],Jar Of Flies,1994-01-01,1994,259200,False,75,0.384,0.561,3,-10.059,0,0.0296,0.373,0.253,0.0775,0.159,136.136
+The Sound of Rock,1wsRitfRRtWyEapl0q22o8,Guerrilla Radio,['Rage Against The Machine'],The Battle Of Los Angeles,1999-11-02,1999,206200,True,73,0.599,0.957,11,-5.764,1,0.188,0.0129,7.06e-05,0.155,0.489,103.68
+The Sound of Rock,1ju7EsSGvRybSNEsRvc7qY,Simple Man,['Lynyrd Skynyrd'],Pronounced' Leh-'Nerd 'Skin-'Nerd,1973-01-01,1973,356626,False,77,0.422,0.752,6,-8.682,1,0.0449,0.0366,0.000119,0.129,0.403,120.471
+The Sound of Rock,0elH6ukMGLyCHJavHutEza,Creep,['Stone Temple Pilots'],Core,1992-09-29,1992,332626,False,61,0.66,0.567,4,-6.318,0,0.0289,0.00428,0.0137,0.11,0.182,107.754
+The Sound of Rock,55WrYzR1SHfXeeU6DJbk3Y,Tush (2006 Remaster),['ZZ Top'],Fandango! (Expanded 2006 Remaster),1975-04-18,1975,133973,False,56,0.511,0.908,0,-6.078,1,0.042,0.00228,0.0289,0.638,0.717,145.213
+The Sound of Rock,4JfuiOWlWCkjP6OKurHjSn,Walk This Way,['Aerosmith'],Toys In The Attic,1975-04-08,1975,220310,False,79,0.653,0.73,5,-10.613,1,0.0429,0.0115,1.02e-05,0.0776,0.894,108.709
+The Sound of Rock,72Z17vmmeQKAg8bptWvpVG,Space Oddity - 2015 Remaster,['David Bowie'],David Bowie (aka Space Oddity) [2015 Remaster],1969-11-04,1969,318026,False,75,0.31,0.403,0,-13.664,1,0.0326,0.0726,9.27e-05,0.139,0.466,134.48
+The Sound of Rock,1v2zyAJrChw5JnfafSkwkJ,Shiny Happy People,['R.E.M.'],Out Of Time (25th Anniversary Edition),1991-03-12,1991,225786,False,78,0.452,0.909,9,-3.977,1,0.0366,0.0313,0.0603,0.23,0.805,124.623
+The Sound of Rock,5HNCy40Ni5BZJFw1TKzRsC,Comfortably Numb,['Pink Floyd'],The Wall,1979-11-30,1979,382296,False,76,0.472,0.366,11,-12.595,0,0.0286,0.15,0.312,0.0837,0.171,127.163
+The Sound of Rock,44aTAUBF0g6sMkMNE8I5kd,Every Little Thing She Does Is Magic,['The Police'],Ghost In The Machine (Remastered 2003),1981-10-02,1981,260573,False,80,0.558,0.768,2,-9.997,1,0.0343,0.121,0.0626,0.124,0.429,81.909
+The Sound of Rock,2JhJOPGvtqMpj5RQC8cIYf,Perfect Strangers,['Deep Purple'],Perfect Strangers,1984-09-16,1984,328426,False,66,0.521,0.721,2,-7.699,1,0.0254,0.00348,0.0113,0.391,0.611,97.578
+The Sound of Rock,56KqaFSGTb7ifpt16t5Y1N,Rock the Casbah - Remastered,['The Clash'],Combat Rock (Remastered),1982-01-01,1982,222426,False,75,0.797,0.872,9,-6.727,0,0.0575,0.291,0.0,0.284,0.866,129.885
+The Sound of Rock,3zwmW1gM4E8FlHXV5nE16u,Be Yourself,['Audioslave'],Out of Exile,2005-01-01,2005,278973,False,72,0.423,0.845,11,-3.509,0,0.0559,0.143,5.07e-06,0.213,0.317,116.602
+The Sound of Rock,0S3gpZzlT9Hb7CCSV2owX7,"Mama, I'm Coming Home",['Ozzy Osbourne'],No More Tears (Expanded Edition),1991-09-17,1991,251866,False,71,0.282,0.656,8,-6.557,1,0.0302,0.0105,0.0,0.0892,0.242,139.352
+The Sound of Rock,47bXIv24jthL4vzZy3j7CY,Strange Brew,['Cream'],Disraeli Gears (Deluxe Edition),1967-11-01,1967,166280,False,65,0.603,0.563,2,-9.932,1,0.0283,0.47,1.04e-05,0.29,0.642,106.431
+The Sound of Rock,63OQupATfueTdZMWTxW03A,Karma Police,['Radiohead'],OK Computer,1997-05-28,1997,264066,False,82,0.36,0.501,7,-9.129,1,0.0258,0.0638,9.32e-05,0.172,0.324,74.807
+The Sound of Rock,1rzYrkxgRuLLJDqWdB32pK,Little Sister,['Queens of the Stone Age'],Lullabies To Paralyze,2005-01-01,2005,174026,False,66,0.361,0.962,1,-2.928,1,0.0659,0.0103,0.00103,0.294,0.927,161.292
+The Sound of Rock,4PJEK76V3A1S0XzZJuTWh7,Love Is A Long Road,['Tom Petty'],Full Moon Fever,1989-01-01,1989,247600,False,78,0.639,0.621,4,-10.851,1,0.0316,0.03,7.59e-05,0.0863,0.496,116.333
+The Sound of Rock,3NfqN997u9A3YAAafgzhIa,All I Think About Now,['Pixies'],Head Carrier,2016-09-30,2016,187320,False,71,0.251,0.575,8,-7.819,1,0.0311,0.00405,0.00135,0.15,0.218,185.731
+The Sound of Rock,4e9hUiLsN4mx61ARosFi7p,The Spirit Of Radio,['Rush'],Permanent Waves,1980-01-01,1980,296466,False,66,0.365,0.924,4,-7.066,1,0.0488,0.0144,0.000254,0.423,0.632,135.811
+The Sound of Rock,1DSOW7QusJ9u4ZIK0Etleq,Dr. Feelgood,['Mötley Crüe'],The Dirt Soundtrack,2000-01-01,2000,290186,False,50,0.53,0.951,2,-5.103,1,0.0602,0.000843,0.0124,0.27,0.428,110.987
+The Sound of Rock,60TYdVs6TWIsAJ1MPRdv59,Then Came the Last Days of May,['Blue Öyster Cult'],Blue Oyster Cult,1972-01-01,1972,210546,False,65,0.367,0.609,9,-11.221,0,0.0457,0.301,0.0243,0.196,0.443,149.386
+The Sound of Rock,3d9DChrdc6BOeFsbrZ3Is0,Under the Bridge,['Red Hot Chili Peppers'],Blood Sugar Sex Magik (Deluxe Edition),1991-09-24,1991,264306,False,86,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581
+The Sound of Rock,2PN0JeaGtkHrlcmwZFWzBM,Pet Sematary,['Ramones'],Brain Drain,1989-01-01,1989,210333,False,54,0.468,0.825,2,-12.853,0,0.0365,0.00159,0.000169,0.143,0.661,148.295
+The Sound of Rock,08mG3Y1vljYA6bvDt4Wqkj,Back In Black,['AC/DC'],Back In Black,1980-07-25,1980,255493,False,86,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386
+The Sound of Rock,4NnWuGQujzWUEg0uZokO5M,Just Like Heaven,['The Cure'],"Kiss Me, Kiss Me, Kiss Me",1987-01-01,1987,212013,False,76,0.437,0.94,9,-6.946,1,0.0426,0.0524,0.000573,0.222,0.48,151.417
+The Sound of Rock,7FSzJQV6thyoQptFCUTV9c,Parklife - 2012 Remaster,['Blur'],Parklife (Special Edition),1994-04-25,1994,185093,False,66,0.628,0.89,4,-6.094,1,0.0675,0.121,0.0,0.281,0.722,138.787
+The Sound of Rock,1mfV2kv9RwFKVI8kEQlmOJ,All Day and All of the Night,['The Kinks'],Kinks (Deluxe Edition),1964-02-02,1964,142226,False,71,0.563,0.915,7,-5.062,1,0.08,0.247,8.46e-05,0.0613,0.71,136.345
+The Sound of Rock,6p8eFfPw3nQkf37aT3AkmK,Fear of the Dark - 2015 Remaster,['Iron Maiden'],Fear of the Dark (2015 Remaster),1992-01-01,1992,438120,False,73,0.308,0.866,2,-5.671,0,0.059,0.000739,0.00141,0.232,0.227,109.825
+The Sound of Rock,5D2eCwqbHcqOnfHOCM6TnV,No More Mr. Nice Guy,['Alice Cooper'],Billion Dollar Babies (Deluxe Reissue),1973-01-01,1973,187893,False,63,0.498,0.515,11,-11.985,0,0.0395,0.0936,0.0,0.1,0.616,127.761
+The Sound of Rock,7MRyJPksH3G2cXHN8UKYzP,American Girl,['Tom Petty and the Heartbreakers'],Tom Petty & The Heartbreakers,1976-11-09,1976,214733,False,74,0.55,0.824,2,-5.988,1,0.0334,0.448,0.000127,0.366,0.777,114.512
+The Sound of Rock,0xGSeBsG4V8Scc5YqpZQ66,Maybe,['Janis Joplin'],I Got Dem Ol' Kozmic Blues Again Mama!,1969-09-11,1969,219133,False,63,0.4,0.35,8,-11.401,1,0.0345,0.227,0.0397,0.103,0.328,83.389
+The Sound of Rock,5zH710lFSLtkHbMkslLDjR,Crazy On You,['Heart'],Dreamboat Annie,1975-01-01,1975,293440,False,74,0.427,0.459,9,-12.442,0,0.0332,0.116,0.000103,0.132,0.383,129.878
+The Sound of Rock,4gpext9x0CbdD9NWaa4nDj,Amanda,['Boston'],Third Stage,1986-01-01,1986,256200,False,66,0.449,0.424,7,-14.06,1,0.0323,0.32,1.69e-06,0.107,0.259,125.494
+The Sound of Rock,71LmwNWHchuDe1QwrEKsB1,God Was Never on Your Side,['Motörhead'],Kiss of Death,2006-01-01,2006,261186,False,60,0.293,0.887,3,-4.629,0,0.0876,0.162,0.00065,0.103,0.183,175.922
+The Sound of Rock,18URo35acNKRTHfEdjTcGn,Photograph,['Def Leppard'],Pyromania,1983-01-20,1983,247962,False,71,0.602,0.877,4,-6.606,1,0.0515,0.000343,0.635,0.0551,0.617,123.679
+The Sound of Rock,1gzIbdFnGJ226LTl0Cn2SX,White Wedding - Pt. 1,['Billy Idol'],Billy Idol,1982-01-01,1982,252200,False,75,0.673,0.814,9,-5.411,1,0.0367,0.0133,0.00293,0.343,0.728,147.193
+The Sound of Rock,6eN1f9KNmiWEhpE2RhQqB5,Paradise City,"[""Guns N' Roses""]",Appetite For Destruction,1987-07-21,1987,405600,False,83,0.268,0.98,11,-5.958,1,0.103,0.0192,0.00709,0.182,0.395,100.315
+The Sound of Rock,2MuWTIM3b0YEAskbeeFE1i,Master Of Puppets,['Metallica'],Master Of Puppets (Remastered),1986-03-03,1986,515386,False,80,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173
+The Sound of Rock,6VoIBz0VhCyz7OdEoRYDiA,Say It Ain't So,['Weezer'],Weezer,1994-05-10,1994,258826,False,79,0.634,0.551,3,-7.136,1,0.0352,0.00737,1.82e-05,0.07,0.453,151.779
+The Sound of Rock,0PQ51hZtABYRaXNHkVpAfD,Detroit Rock City,['KISS'],Double Platinum (Remastered Version),1978-01-01,1978,215933,False,49,0.546,0.901,5,-6.729,1,0.0685,0.0422,4.48e-05,0.292,0.459,90.591
+The Sound of Rock,4xBHZ2Mr0gCdFYXrPZuYXO,Lonely Day,['System Of A Down'],Hypnotize,2005-11-18,2005,167906,False,72,0.458,0.783,8,-3.226,0,0.0322,0.346,6.14e-06,0.13,0.224,113.072
+The Sound of Rock,1Qc7zCw6k2KTvSEl4IKSdP,The Pusher,['Steppenwolf'],Steppenwolf,1968-01-01,1968,350466,False,55,0.467,0.381,0,-13.808,1,0.0264,0.235,0.123,0.187,0.697,81.754
+The Sound of Rock,1hwJKpe0BPUsq6UUrwBWTw,Boulevard of Broken Dreams,['Green Day'],Boulevard of Broken Dreams,2004-01-01,2004,261266,True,77,0.49,0.679,8,-3.68,1,0.0309,0.00394,1.54e-05,0.0383,0.506,167.046
+The Sound of Rock,1FkoVC85Ds3mFoK0fVqEqP,Self Esteem,['The Offspring'],Smash,1994-04-08,1994,257826,False,80,0.488,0.862,0,-7.595,1,0.0476,0.0204,0.0,0.359,0.706,104.56
+The Sound of Rock,3skn2lauGk7Dx6bVIt5DVj,Starlight,['Muse'],Black Holes and Revelations,2006-06-19,2006,240213,False,77,0.55,0.874,4,-4.046,1,0.0321,0.000436,1.02e-05,0.206,0.318,121.61
+The Sound of Rock,6ZAwEE4kTdtvyE66iRhFxR,Real Wild Child (Wild One),['Iggy Pop'],Blah-Blah-Blah,1986-10-27,1986,218306,False,63,0.59,0.851,4,-11.754,1,0.0297,0.0174,0.0975,0.154,0.968,146.213
+The Sound of Rock,0yLfXULLuRtVj2L4DIrwO7,Today,['Jefferson Airplane'],Surrealistic Pillow,1967-01-01,1967,177546,False,57,0.51,0.31,2,-13.647,0,0.0291,0.695,0.0,0.128,0.291,90.074
+The Sound of Rock,5geF5xzPGHxpmk9BDBHphZ,We Gotta Get Out Of This Place - UK Single Version,['The Animals'],Animal Tracks,1965-09-01,1965,194600,False,58,0.534,0.61,5,-5.276,1,0.0343,0.432,2.77e-06,0.0988,0.45,124.05
+The Sound of Rock,5nNZTUzinBDsnj3U76NJFC,And She Was - 2005 Remaster,['Talking Heads'],Little Creatures,1985-07-10,1985,219413,False,62,0.697,0.846,9,-5.471,1,0.03,0.0059,0.0256,0.0967,0.973,126.467
+The Sound of Rock,57Xjny5yNzAcsxnusKmAfA,Reptilia,['The Strokes'],Room On Fire,2003-10-28,2003,219826,False,79,0.489,0.649,9,-5.11,1,0.0336,0.000603,0.713,0.101,0.77,158.009
+The Sound of Rock,2EqlS6tkEnglzr7tkKAAYD,Come Together - Remastered 2009,['The Beatles'],Abbey Road (Remastered),1969-09-26,1969,259946,False,81,0.533,0.376,9,-11.913,0,0.0393,0.0302,0.248,0.0926,0.187,165.007
+The Sound of Rock,18GiV1BaXzPVYpp9rmOg0E,Blowin' in the Wind,['Bob Dylan'],The Freewheelin' Bob Dylan,1963-05-27,1963,165426,False,71,0.38,0.0993,2,-20.567,1,0.0509,0.914,2.32e-05,0.0605,0.44,174.874
+The Sound of Rock,7AtwQRLPdttsxcLM5tPL0t,Still of the Night - 2018 Remaster,['Whitesnake'],Whitesnake (2018 Remaster),1987-01-01,1987,397768,False,62,0.334,0.854,4,-7.531,0,0.0494,0.00235,0.00114,0.158,0.284,100.175
+The Sound of Rock,20OFwXhEXf12DzwXmaV7fj,Bad Moon Rising,['Creedence Clearwater Revival'],Green River (Expanded Edition),1969-08-03,1969,141600,False,85,0.508,0.774,2,-5.973,1,0.0321,0.0586,4.87e-06,0.063,0.942,178.946
+The Sound of Rock,35wVRTJlUu2kDkqXFegOKt,You Might Think,['The Cars'],Heartbeat City (Expanded Edition),1984-01-01,1984,184717,False,68,0.728,0.855,2,-6.031,1,0.0333,0.109,0.000576,0.113,0.971,133.887
+The Sound of Rock,0grFc6klR3hxoHLcgCYsF4,Howlin' for You,['The Black Keys'],Brothers,2010-05-18,2010,191800,False,73,0.705,0.735,11,-6.646,1,0.0931,0.028,0.0783,0.112,0.448,132.627
+The Sound of Rock,1ZhrREyOOeFV6TxDOyiPwu,Take The Money And Run,['Steve Miller Band'],Fly Like An Eagle,1976-01-01,1976,170173,False,73,0.565,0.645,0,-12.923,1,0.0484,0.0552,2.84e-06,0.151,0.836,99.3
+The Sound of Rock,70wYA8oYHoMzhRRkARoMhU,When You Were Young,['The Killers'],Sam's Town,2006-09-27,2006,220426,False,81,0.467,0.988,11,-3.313,1,0.112,0.000152,0.0484,0.28,0.321,130.433
+The Sound of Rock,73uAQw29X3mrO1taWZaOvm,Journey Through the Past,['Neil Young'],Inherent Vice (Original Motion Picture Soundtrack),2014-12-15,2014,141906,False,58,0.523,0.305,0,-12.834,1,0.0399,0.42,0.0,0.162,0.435,95.854
+The Sound of Rock,528CAH5pTLq86oZ52fHifA,The Flame,['Cheap Trick'],Lap Of Luxury,1988-04-12,1988,338800,False,67,0.629,0.581,4,-11.856,1,0.027,0.513,2.06e-06,0.0755,0.359,97.074
+The Sound of Rock,4f3RDq9nYPBeR1yMSgnmBm,You've Got Another Thing Coming,['Judas Priest'],Screaming For Vengeance (Expanded Edition),1982-01-01,1982,310080,False,68,0.519,0.833,6,-6.947,0,0.0496,0.00572,4.33e-06,0.104,0.532,138.225
+The Sound of Rock,5YciOakY5dB5dULkiLdCaf,Stop Crying Your Heart Out,['Oasis'],Heathen Chemistry,2002-02-03,2002,303133,False,76,0.38,0.572,2,-5.334,1,0.03,0.0768,2.4e-06,0.0776,0.0878,74.987
+The Sound of Rock,21rz5LMBiIpQWRGQcb0xIg,Pretty Vacant,['Sex Pistols'],"Never Mind The Bollocks, Here’s The Sex Pistols",1977-10-27,1977,197613,False,56,0.282,0.874,2,-7.882,1,0.0552,0.0248,0.0,0.142,0.389,145.222
+The Sound of Rock,1Bq65xKgu0kjSUMUlfWyPl,Transmission - 2020 Digital Remaster,['Joy Division'],Transmission,1979-10-07,1979,218440,False,61,0.496,0.849,7,-6.512,1,0.0401,0.0202,0.573,0.102,0.65,153.724
+The Sound of Rock,7vidktgNZFQylTgH1GEnMs,Cold as Ice,['Foreigner'],Foreigner (Expanded),1977-03-08,1977,200213,False,73,0.562,0.609,3,-7.063,0,0.0271,0.0264,0.0,0.17,0.512,130.753
+The Sound of Rock,3PG7BAJG9WkmNOJOlc4uAo,Femme Fatale,"['The Velvet Underground', 'Nico']",The Velvet Underground & Nico 45th Anniversary,1967-03-12,1967,159000,False,67,0.55,0.145,0,-15.753,1,0.0332,0.913,0.0,0.118,0.138,103.918
+The Sound of Rock,68Lt6BitkkDXzvlPMrXKjV,Carry On Wayward Son,['Kansas'],Rock Classics,1999-11-22,1999,206426,False,29,0.45,0.626,0,-9.45,1,0.032,0.00765,1.97e-06,0.358,0.847,126.818
+The Sound of Rock,0zxj7dVhYZq5ACyaDx5XIo,Layla - Acoustic Live,['Eric Clapton'],Unplugged (Live),1992-08-25,1992,289026,False,73,0.559,0.524,2,-11.64,0,0.0462,0.318,0.00094,0.933,0.652,93.85
+The Sound of Rock,4VP8QiCeaZq8BeTIUrMQOG,No You Girls,['Franz Ferdinand'],Tonight,2009-01-27,2009,223786,False,65,0.677,0.916,2,-4.102,0,0.0296,0.0086,7.68e-05,0.0967,0.878,104.78
+The Sound of Rock,7safX55XidhznxK5eDdDm5,I Can't Dance - Remastered 2007,['Genesis'],We Can't Dance,1991-11-11,1991,241360,False,66,0.916,0.523,3,-9.733,1,0.0521,0.432,1.13e-05,0.0488,0.88,107.564
+The Sound of Rock,6olS0TmHmsGr0hXtcBsiVM,A Tout Le Monde - Remastered 2004,['Megadeth'],Youthanasia (Expanded Edition - Remastered),1994-10-28,1994,262133,False,70,0.272,0.747,5,-4.86,0,0.0401,0.000393,4.03e-05,0.16,0.255,202.777
